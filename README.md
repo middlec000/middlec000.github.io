@@ -1,3 +1,2 @@
-# middlec000.github.io
-Access website at:  
+# Website Access 
 https://middlec000.github.io/
