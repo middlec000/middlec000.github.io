@@ -24,10 +24,13 @@
 \usepackage{graphicx}
 \usepackage{float}
 \usepackage{multicol}
+\usepackage{amsmath}
 
 %----------------------------------------------------------------------------------------
 
 \begin{document}
+\setlength{\abovedisplayskip}{0pt}
+\setlength{\belowdisplayskip}{0pt}
 
 %----------------------------------------------------------------------------------------
 %	TITLE AND CONTACT INFORMATION
@@ -38,29 +41,35 @@
 
 {\huge Data Scientist} % Career or current job title
 
-\vspace{6pt}
+\vspace{0.25cm}
 
-\icon{MapMarker}{12}{4419 H Avenue, Anacortes, WA}
-\hspace{8pt}
-\icon{Phone}{12}{+1 360-206-7812}
-\hspace{8pt}
-\icon{At}{12}{\href{mailto:colindmiddleton@gmail.com}{colindmiddleton@gmail}}
+\begin{align*}
+	\centering
+	&\icon{Globe}{12}{\href{https://middlec000.github.io/}{middlec000.github.io}}
+	\hspace{0.5cm}
+	\icon{At}{12}{\href{mailto:colindmiddleton@gmail.com}{colindmiddleton@gmail}}
+	\hspace{0.5cm}
+	\icon{Phone}{12}{+1-360-206-7812}
+	\\
+	&\icon{MapMarker}{12}{4419 H Avenue, Anacortes WA}	
+\end{align*}
 
-\vspace{0.5cm}
+\vspace{0.25cm}
+
 %----------------------------------------------------------------------------------------
-%	INTRODUCTION, SKILLS AND TECHNOLOGIES
+%	WHO I AM, TOOLS
 %----------------------------------------------------------------------------------------
 
 \begin{minipage}[t]{0.5\textwidth} % 40% of the page width for the introduction text
 	\cvsect{Who I Am} \\
-	Passionate about making the world a better place and determined to acquire and practice the skills necessary to do so. Seeking a summer internship where I can apply and practice my data science skills on meaningful projects. 
+	Passionate about making the world a better place and determined to acquire and practice the skills necessary to do so. Seeking a job where I can apply and practice data science skills on meaningful projects. 
 \end{minipage}
 \hfill % Whitespace between
 \begin{minipage}[t]{0.4\textwidth}
     \cvsect{Tools}
 	\begin{itemize}
-		\item Python, R, Java
-		\item Jupyter Notebooks, VS Code
+		\item Python, R, Java, SQL
+		\item Jupyter Notebooks, GitHub
 	   	\item LaTeX
 	\end{itemize}
 \end{minipage}
@@ -68,7 +77,7 @@
 \vspace{0.5cm}
 
 %----------------------------------------------------------------------------------------
-%	EXPERIENCE
+%	PROJECTS
 %----------------------------------------------------------------------------------------
 
 \cvsect{Projects}
@@ -87,19 +96,23 @@
 		{Prediction methods for traffic arriving at the US / Canadian border}
 \end{entrylist}
 
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE
+%----------------------------------------------------------------------------------------
+
 \cvsect{Work Experience}
 
 \begin{entrylist}
 	\entry
 		{Oct 2018 \\
-		--Sep 2019}
+		-- Sep 2019}
 		{CAD Drafter}
 		{Brooks Middleton Architect}
 		{Drafted architectural drawings using AutoCAD LT \\ 
 		Made design adjustments and suggestions}
 	\entry
 		{Nov 2018 \\
-		--May 2019}
+		-- May 2019}
 		{CAD Drafter}
 		{Beacon Rock Architecture Group}
 		{Drafted architectural drawings using AutoCAD LT \\ 
