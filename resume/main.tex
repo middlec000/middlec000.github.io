@@ -1,0 +1,137 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Developer CV
+% LaTeX Template
+% Version 1.0 (28/1/19)
+%
+% This template originates from:
+% http://www.LaTeXTemplates.com
+%
+% Authors:
+% Jan Vorisek (jan@vorisek.me)
+% Based on a template by Jan Küster (info@jankuester.com)
+% Modified for LaTeX Templates by Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt]{developercv} % Default font size, values from 8-12pt are recommended
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{multicol}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE AND CONTACT INFORMATION
+%----------------------------------------------------------------------------------------
+\colorbox{black}{{\HUGE\textcolor{white}{\textbf{\MakeUppercase{Colin Middleton}}}}}
+
+\vspace{6pt}
+
+{\huge Data Scientist} % Career or current job title
+
+\vspace{6pt}
+
+\icon{MapMarker}{12}{4419 H Avenue, Anacortes, WA}
+\hspace{8pt}
+\icon{Phone}{12}{+1 360-206-7812}
+\hspace{8pt}
+\icon{At}{12}{\href{mailto:colindmiddleton@gmail.com}{colindmiddleton@gmail}}
+
+\vspace{0.5cm}
+%----------------------------------------------------------------------------------------
+%	INTRODUCTION, SKILLS AND TECHNOLOGIES
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.5\textwidth} % 40% of the page width for the introduction text
+	\cvsect{Who I Am} \\
+	Passionate about making the world a better place and determined to acquire and practice the skills necessary to do so. Seeking a summer internship where I can apply and practice my data science skills on meaningful projects. 
+\end{minipage}
+\hfill % Whitespace between
+\begin{minipage}[t]{0.4\textwidth}
+    \cvsect{Tools}
+	\begin{itemize}
+		\item Python, R, Java
+		\item Jupyter Notebooks, VS Code
+	   	\item LaTeX
+	\end{itemize}
+\end{minipage}
+
+\vspace{0.5cm}
+
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\cvsect{Projects}
+
+\begin{entrylist}
+	\entry
+	    {Jun 2020 \\
+		-- Jun 2021}
+	    {Homelessness Prediction}
+	    {Spokane Predictive Analytics}
+	    {Used utility billing profiles to predict risk of experiencing homelessness. Determined usefulness of data.}
+	\entry
+		{2017}
+		{Traffic Prediction Senior Project}
+		{Whatcom Council of Governments}
+		{Prediction methods for traffic arriving at the US / Canadian border}
+\end{entrylist}
+
+\cvsect{Work Experience}
+
+\begin{entrylist}
+	\entry
+		{Oct 2018 \\
+		--Sep 2019}
+		{CAD Drafter}
+		{Brooks Middleton Architect}
+		{Drafted architectural drawings using AutoCAD LT \\ 
+		Made design adjustments and suggestions}
+	\entry
+		{Nov 2018 \\
+		--May 2019}
+		{CAD Drafter}
+		{Beacon Rock Architecture Group}
+		{Drafted architectural drawings using AutoCAD LT \\ 
+		Made design adjustments and suggestions \\
+		Used Dropbox to share files}
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+
+\cvsect{Education}
+
+\begin{entrylist}
+	\entry
+		{Sep 2019\\
+		-- Jun 2021}
+		{Applied Mathematics, MS}
+		{Eastern Washington University}
+		{Major: Applied Mathematics, Masters \\
+		GPA: 4.0 \\
+		Awards: Outstanding Graduate
+		}
+	\entry
+		{Sep 2013\\
+		-- Dec 2017}
+		{Mathematics, BS}
+		{Western Washington University}
+		{Major: Mathematics \\
+		Minors: Honors, Chemistry \\
+		GPA: 3.5
+		}
+\end{entrylist}
+
+\end{document}
