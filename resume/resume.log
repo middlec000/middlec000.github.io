@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.10)  11 AUG 2021 10:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.10)  9 SEP 2021 08:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -836,16 +836,6 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 (Font)              scaled to size 29.86pt on input line 38.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
 (Font)              scaled to size 20.74pt on input line 42.
-LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 55.
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 55.
- (c:/texlive/2021/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
-File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
-)
-LaTeX Font Info:    Trying to load font information for U+fontawesomeone on input line 55.
- (c:/texlive/2021/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
-File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
-)
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 64.
 
@@ -895,18 +885,18 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23983 strings out of 478542
- 450777 string characters out of 5854402
- 773045 words of memory out of 5000000
- 41475 multiletter control sequences out of 15000+600000
- 516595 words of font info for 57 fonts, out of 8000000 for 9000
+ 23941 strings out of 478542
+ 449884 string characters out of 5854402
+ 770045 words of memory out of 5000000
+ 41449 multiletter control sequences out of 15000+600000
+ 499665 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,12n,122p,505b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bold.pfb><c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Regular.pfb>
-Output written on resume.pdf (1 page, 65078 bytes).
+ 117i,6n,122p,505b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}<c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bold.pfb><c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Regular.pfb>
+Output written on resume.pdf (1 page, 48313 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 36 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
