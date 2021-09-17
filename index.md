@@ -13,9 +13,13 @@ Follow this [link](/resume/resume.pdf)
 
 # Portfolio
 ## Predicting Homelessness
-Investigated the usefulness of customer utility billing data for predicting homelessness in Spokane, WA.  
+Investigated the usefulness of customer utility billing data for predicting homelessness in Spokane, WA - Logistic Regression.  
 [Link](https://github.com/middlec000/SPA_predict_homelessness)
 
 ## Document Clustering
 Helped build a customized K-Means model that clusters a collection of documents into groups based on topic.  
 [Link](https://github.com/middlec000/cord19clustering)
+
+## Wine Quality Classification
+Classify wine as one of six quality rankings based on given attributes - Random Forest model in R.  
+[Link](https://github.com/middlec000/wine_quality)
