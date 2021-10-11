@@ -1,12 +1,13 @@
 # Contact
 * Name: Colin Middleton  
+* Phone: +1-360-206-7812  
 * Email: [colindmiddleton@gmail.com](mailto:colindmiddleton@gmail.com)  
-* Phone: 360-206-7812  
+* LinkedIn: [Profile Page](https://www.linkedin.com/in/colin-middleton-000/)  
 * GitHub: [Profile Page](https://github.com/middlec000)
 
 # About Me
-* Interested in making the human domain healthier, more equitable, and more efficient using data, statistics, and machine learning
-* Just graduated in June, 2021 from Eastern Washington University with an M.S. in applied math
+* Interested in making the human domain healthier, more equitable, and more efficient using data analysis, statistics, and machine learning.
+* Graduated in June, 2021 from Eastern Washington University with an M.S. in Applied Mathematics - looking forward to apply my knowledge to meaningful and interesting projects.
 
 # Resume
 Follow this [link](/resume/resume.pdf)
