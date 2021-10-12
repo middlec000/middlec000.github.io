@@ -1,5 +1,5 @@
 # Contact
-* Name: Colin Middleton  
+* Name: Colin Middleton, MS  
 * Phone: +1-360-206-7812  
 * Email: [colindmiddleton@gmail.com](mailto:colindmiddleton@gmail.com)  
 * LinkedIn: [Profile Page](https://www.linkedin.com/in/colin-middleton-000/)  
