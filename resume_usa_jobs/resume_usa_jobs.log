@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.10)  25 OCT 2021 08:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.10)  22 OCT 2021 09:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/colin/Documents/GitHub/middlec000.github.io/resume/resume.tex
-(c:/Users/colin/Documents/GitHub/middlec000.github.io/resume/resume.tex
+**c:/Users/colin/Documents/GitHub/middlec000.github.io/resume_usa_jobs/resume_usa_jobs.tex
+(c:/Users/colin/Documents/GitHub/middlec000.github.io/resume_usa_jobs/resume_usa_jobs.tex
 LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-07-12> (./developercv.cls
 Document Class: developercv 2019/01/28 Developer CV class v1.0
@@ -732,8 +732,8 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
 File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count323
 \l__pdf_internal_box=\box138
-) (./resume.aux)
-\openout1 = `resume.aux'.
+) (./resume_usa_jobs.aux)
+\openout1 = `resume_usa_jobs.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
@@ -772,9 +772,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 31.
 LaTeX Info: Redefining \pageref on input line 31.
 LaTeX Info: Redefining \nameref on input line 31.
- (./resume.out) (./resume.out)
+ (./resume_usa_jobs.out) (./resume_usa_jobs.out)
 \@outlinefile=\write4
-\openout4 = `resume.out'.
+\openout4 = `resume_usa_jobs.out'.
 
 
 *geometry* driver: auto-detecting
@@ -834,69 +834,51 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
 (Font)              scaled to size 29.86pt on input line 38.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 (Font)              scaled to size 29.86pt on input line 38.
-LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 42.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 63.
+(Font)              scaled to size 10.95pt on input line 57.
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--65
-
- []
-
-
-Underfull \hbox (badness 1776) in paragraph at lines 63--65
-\T1/Raleway-TLF/m/n/10.95 Passionate about mak-ing the world a bet-ter
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+Raleway-TLF on input line 70.
-(c:/texlive/2021/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
-File: TS1Raleway-TLF.fd 2014/07/28 (autoinst) Font definitions for TS1/Raleway-TLF.
-)
-LaTeX Font Info:    Font shape `TS1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 70.
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 90.
+(Font)              scaled to size 9.0pt on input line 79.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 90.
+(Font)              scaled to size 9.0pt on input line 79.
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 
  []
 
 [1
 
-{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./resume.aux)
-Package rerunfilecheck Info: File `resume.out' has not changed.
+{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./resume_usa_jobs.aux)
+Package rerunfilecheck Info: File `resume_usa_jobs.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23941 strings out of 478542
- 449884 string characters out of 5854402
- 772045 words of memory out of 5000000
- 41449 multiletter control sequences out of 15000+600000
- 499665 words of font info for 43 fonts, out of 8000000 for 9000
+ 23879 strings out of 478542
+ 448488 string characters out of 5854402
+ 773099 words of memory out of 5000000
+ 41394 multiletter control sequences out of 15000+600000
+ 485347 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,6n,122p,505b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}<c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bold.pfb><c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Regular.pfb>
-Output written on resume.pdf (1 page, 48882 bytes).
+ 117i,6n,122p,523b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}<c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bold.pfb><c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Regular.pfb>
+Output written on resume_usa_jobs.pdf (1 page, 47498 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 33 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
