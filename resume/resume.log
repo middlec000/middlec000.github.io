@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.10)  25 OCT 2021 08:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.10)  30 OCT 2021 10:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -837,44 +837,33 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
 (Font)              scaled to size 20.74pt on input line 42.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 63.
+(Font)              scaled to size 10.95pt on input line 57.
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--65
-
- []
-
-
-Underfull \hbox (badness 1776) in paragraph at lines 63--65
-\T1/Raleway-TLF/m/n/10.95 Passionate about mak-ing the world a bet-ter
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+Raleway-TLF on input line 70.
-(c:/texlive/2021/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
-File: TS1Raleway-TLF.fd 2014/07/28 (autoinst) Font definitions for TS1/Raleway-TLF.
-)
-LaTeX Font Info:    Font shape `TS1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 70.
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 90.
+(Font)              scaled to size 9.0pt on input line 85.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 90.
+(Font)              scaled to size 9.0pt on input line 85.
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
@@ -885,18 +874,18 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23941 strings out of 478542
- 449884 string characters out of 5854402
- 772045 words of memory out of 5000000
- 41449 multiletter control sequences out of 15000+600000
- 499665 words of font info for 43 fonts, out of 8000000 for 9000
+ 23883 strings out of 478542
+ 448372 string characters out of 5854402
+ 773080 words of memory out of 5000000
+ 41396 multiletter control sequences out of 15000+600000
+ 498959 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,6n,122p,505b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}<c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bold.pfb><c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Regular.pfb>
-Output written on resume.pdf (1 page, 48882 bytes).
+{c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}<c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bold.pfb><c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Regular.pfb>
+Output written on resume.pdf (1 page, 47874 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
+ 34 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
