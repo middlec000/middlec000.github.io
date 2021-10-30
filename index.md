@@ -1,26 +1,41 @@
-# Contact
-* Name: Colin Middleton, MS  
-* Phone: +1-360-206-7812  
-* Email: [colindmiddleton@gmail.com](mailto:colindmiddleton@gmail.com)  
-* LinkedIn: [Profile Page](https://www.linkedin.com/in/colin-middleton-000/)  
-* GitHub: [Profile Page](https://github.com/middlec000)
+![alt text](./images/static_peak.jpg "September 2021 - Static Peak, Tetons, WY")
+
+# Welcome to my Personal Website!
+My name is Colin Middleton and I am currently looking for work in the field of Data Science.  
 
 # About Me
-* Interested in making the human domain healthier, more equitable, and more efficient using data analysis, statistics, and machine learning.
-* Graduated in June, 2021 from Eastern Washington University with an M.S. in Applied Mathematics - looking forward to apply my knowledge to meaningful and interesting projects.
+## Education
+* MS Applied Mathematics from Eastern Washington University, June 2021  
+* BS Mathematics from Western Washington Universtiy, December 2017  
 
-# Resume
-Follow this [link](/resume/resume.pdf)
+## Interests
+* Personalized Medicine - Each one of us is different. We often present different symptoms for the same condition and we respond differently to the same medicine. Data is the answer - we need to learn what information determines these differences and find ways to collect it non-invasively.   
+* Homelessness Prevention - Preventing individauls from experiencing homelessness is more humane and cost effective than waiting to assist people only after they have lost their homes. 
+* Data Science Tools - I am always learning new tools to help me investigate and visualize data, fit models, and present results.  
+* Outdoors - Currently living in Alpine, Wyoming and enjoying exploring the surrounding mountains by foot and ski.
+ 
+## Contact 
+* Phone: +1-360-206-7812  
+* [Email](mailto:colindmiddleton@gmail.com)  
+* [LinkedIn](https://www.linkedin.com/in/colin-middleton-000/)  
+* [GitHub](https://github.com/middlec000)  
+
+# [Resume](./resume/resume.pdf)
 
 # Portfolio
-## Predicting Homelessness
-Investigated the usefulness of customer utility billing data for predicting homelessness in Spokane, WA - Logistic Regression.  
-[Link](https://github.com/middlec000/SPA_predict_homelessness)
+## [Predicting Homelessness](https://github.com/middlec000/SPA_predict_homelessness)
+Used Logistic Regression to predict an individual's risk of experiencing homelessness based on their utility payment history.  
+Tools: Python (pandas, numpy, statsmodels, scikit-learn, matplotlib)
 
-## Document Clustering
-Helped build a customized K-Means model that clusters a collection of documents into groups based on topic.  
-[Link](https://github.com/middlec000/cord19clustering)
+## [Document Clustering](https://github.com/middlec000/cord19clustering)
+Helped build a customized K-Means model that clusters a collection of text documents into groups based on topic.  
+Tools: Python (dictionaries, lists, custom objects and methods)
 
-## Wine Quality Classification
-Classify wine as one of six quality rankings based on given attributes - Random Forest model in R.  
-[Link](https://github.com/middlec000/wine_quality)
+## [Wine Quality Classification](https://github.com/middlec000/wine_quality)
+Used a Random Forest to classify wine as one of six quality rankings based on given attributes.  
+Language: R (Hmisc, corrplot, randomForest, caret, ggplot2)
+
+## In Development
+Check out my [GitHub Profile Page](https://github.com/middlec000) to see all my projects. These include:
+* Fast heirarchical document clustering  
+* Stepwise linear model building in Python  
