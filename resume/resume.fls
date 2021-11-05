@@ -954,6 +954,17 @@ INPUT c:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-t1.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Bold-tlf-t1.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-t1.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Bold-tlf-t1.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-t1.tfm
