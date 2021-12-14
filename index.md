@@ -31,9 +31,13 @@ Tools: Python (pandas, numpy, statsmodels, scikit-learn, matplotlib)
 Helped build a customized K-Means model that clusters a collection of text documents into groups based on topic.  
 Tools: Python (dictionaries, lists, custom objects and methods)
 
+## [One-Way ANOVA Streamlit Website](https://share.streamlit.io/middlec000/grades_vs_student_characteristic/main/src/main.py)
+Upload your data, group it by a categorical column, then analyze if there is a statistically significant difference in means of a continuous column between groups. Example provided.  
+Tools: Python (streamlit, pandas, statsmodels)
+
 ## [Wine Quality Classification](https://github.com/middlec000/wine_quality)
 Used a Random Forest to classify wine as one of six quality rankings based on given attributes.  
-Language: R (Hmisc, corrplot, randomForest, caret, ggplot2)
+Tools: R (Hmisc, corrplot, randomForest, caret, ggplot2)
 
 ## In Development
 Check out my [GitHub Profile Page](https://github.com/middlec000) to see all my projects. These include:
