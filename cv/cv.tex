@@ -1,0 +1,227 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Developer CV
+% LaTeX Template
+% Version 1.0 (28/1/19)
+%
+% This template originates from:
+% http://www.LaTeXTemplates.com
+%
+% Authors:
+% Jan Vorisek (jan@vorisek.me)
+% Based on a template by Jan Küster (info@jankuester.com)
+% Modified for LaTeX Templates by Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt]{developercv} % Default font size, values from 8-12pt are recommended
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{multicol}
+\usepackage{amsmath}
+
+\newcommand{\vsp}{\vspace{-10pt}}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+\setlength{\abovedisplayskip}{0pt}
+\setlength{\belowdisplayskip}{0pt}
+
+%----------------------------------------------------------------------------------------
+%	TITLE AND CONTACT INFORMATION
+%----------------------------------------------------------------------------------------
+\begin{minipage}{0.75\textwidth}
+	\colorbox{black}{{\HUGE\textcolor{white}{\textbf{\MakeUppercase{Colin Middleton, MS}}}}}
+\end{minipage}
+\begin{minipage}{0.25\textwidth}
+	{\huge Data \\Scientist}
+\end{minipage}
+
+\vspace{-5pt}
+\begin{center}
+	1-360-206-7812
+	\hspace{0.25cm} | \hspace{0.25cm}
+	\href{mailto:colindmiddleton@gmail.com}{colindmiddleton@gmail}
+	\hspace{0.25cm} | \hspace{0.25cm}
+	\href{https://www.linkedin.com/in/colin-middleton-000/}{LinkedIn}
+	\hspace{0.25cm} | \hspace{0.25cm}
+	\href{https://middlec000.github.io/}{middlec000.github.io}
+\end{center}
+\vsp
+
+\cvsect{Professional Summary}
+
+Recent Eastern Washington University graduate with an MS in Applied Mathematics. Completed thesis project on predicting likelihood of homelessness based on an individual's utility billing history. Strong background in applied mathematics and statistics with practical experience in data exploration, manipulation, analysis, and prediction. Seeking to launch career in the data rich environment of Wheelhouse.
+
+\cvsect{Skills}
+\vsp
+\begin{center}
+	Applied Mathematics \quad | \quad Statistics \quad | \quad Machine Learning
+	\\
+	\vspace{0.25cm}
+	R \quad | \quad Java \quad | \quad SQL \quad | \quad
+	Jupyter Notebooks \quad | \quad GitHub \quad | \quad LaTeX
+	\\
+	\vspace{0.25cm}
+	Python: \quad pandas \quad numpy \quad statsmodels \quad scikit-learn \quad tensorflow \quad matplotlib \quad seaborn
+\end{center}
+\vsp
+
+\cvsect{Education}
+\begin{entrylist}
+	\entry
+		{Sep 2019\\
+		-- Jun 2021}
+		{Applied Mathematics, MS}
+		{Eastern Washington University}
+		{\vspace{-0.5cm}\begin{itemize}
+			\item GPA: 4.0
+			\item Total Credits: 79
+		\end{itemize}}
+	\entry
+		{Sep 2013\\
+		-- Dec 2017}
+		{Mathematics, BS}
+		{Western Washington University}
+		{\vspace{-0.5cm}\begin{itemize}
+			\item GPA: 3.5
+			\item Minors: Honors, Chemistry
+			\item Total Credits: 211
+		\end{itemize}}
+\end{entrylist}
+\vsp
+
+\cvsect{Honors and Awards}
+\begin{entrylist}
+	\vspace{-0.5cm}
+	\entry
+		{2021}
+		{Outstanding Graduate}
+		{Eastern Washington University}
+		{}
+	\vspace{-0.5cm}
+	\entry
+		{2021}
+		{Graduate Service Appointment}
+		{Eastern Washington University}
+		{}
+	\vspace{-0.5cm}
+	\entry
+		{2015}
+		{Math Fellowship}
+		{Western Washington University}
+		{}
+	\entry
+		{2013}
+		{Presidential Scholarship}
+		{Western Washington University}
+		{}
+\end{entrylist}
+\vsp
+
+\cvsect{Projects}
+\begin{entrylist}
+	\entry
+		{Dec 2021}
+		{Grades vs Student Characteristic}
+		{Personal Project}
+		{\vspace{-0.5cm}\begin{itemize}
+			\item Used an ANOVA test to determine if there is a significant difference in grades between groups of students where groups are based on chosen characteristic such as race or neighborhood. 
+			\item User-friendly web interface.
+			\item Automatically performs normality and skedasticity tests.
+			\item (Python: Streamlit)
+			\item \url{https://github.com/middlec000/grades_vs_student_characteristic}
+		\end{itemize}}
+	\entry
+	    {Jun 2020 \\
+		-- Jun 2021}
+	    {Homelessness Prediction}
+	    {Spokane Predictive Analytics}
+		{\vspace{-0.5cm}\begin{itemize}
+			\item Predicted risk of experiencing homelessness based on monthly customer utility payment data.
+			\item Used Linear Regression, Logistic Regression, Cox Proportional Hazards, and LSTM models.
+			\item Joined, filtered data and engineered new features.
+			\item Pending publication.
+			\item (Python + JupyterLab)
+			\item \url{https://github.com/middlec000/SPA_predict_homelessness}
+		\end{itemize}}
+	\entry
+		{Jan 2021 \\
+		-- Mar 2021}
+		{Academic Paper Clustering by Topic}
+		{Big Data Analytics Class Project}
+		{\vspace{-0.5cm}\begin{itemize}
+			\item Collaborated on customized K-Means model to cluster text documents into groups by topic using bag-of-words TF-IDF representation and custom dot product distance metric.
+			\item Custom output with intelligible group themes.
+			\item Currently developing hierarchical (agglomerative) version for publication to PyPi.
+			\item (Python)
+			\item \url{https://github.com/middlec000/fhdc}
+		\end{itemize}}
+	\entry
+		{2017}
+		{Traffic Prediction Senior Project}
+		{Whatcom Council of Governments}
+		{\vspace{-0.5cm}\begin{itemize}
+			\item Predicted traffic flow arriving at the US / Canadian border crossing based on upflow traffic sensors.
+			\item Employed averaging, PCA, and speed + distance ratio methods.
+			\item (Excel)
+		\end{itemize}}
+\end{entrylist}
+\vsp
+
+\cvsect{Work Experience}
+\begin{entrylist}
+	\entry
+		{Oct 2018 \\
+		-- Current}
+		{CAD Drafter}
+		{Brooks Middleton Architect}
+		{\vspace{-0.5cm}\begin{itemize}
+			\item Draft architectural drawings using AutoCAD LT.
+			\item Make design adjustments and suggestions.
+			\item Research building code and construction product specifications.
+		\end{itemize}}
+	\entry
+		{Nov 2018 \\
+		-- May 2019}
+		{CAD Drafter}
+		{Beacon Rock Architecture Group}
+		{\vspace{-0.5cm}\begin{itemize}
+			\item Drafted architectural drawings using AutoCAD LT.
+			\item Researched building code.
+			\item Used Dropbox to share files.
+		\end{itemize}}
+	\entry
+		{Jul 2016 \\
+		-- Aug 2016}
+		{R \& D Intern}
+		{Energy Storage Systems}
+		{\vspace{-0.5cm}\begin{itemize}
+			\item Assisted with battery testing.
+			\item Helped fabricate and improve a system for evaporation and dissolution of gasses in a liquid.
+		\end{itemize}}
+	%TODO: add GSA + tutoring
+\end{entrylist}
+\vsp
+
+\cvsect{Publications}
+\begin{entrylist}
+	\entry
+		{In Progress}
+		{\textit{Prediction of Homelessness Risk Based on \\Utility Payment
+		History}}
+		{Eastern Washington University Thesis}
+		{\vspace{-0.5cm}\begin{itemize}
+			\item Advisor: Dr. Andrew Oster
+			\item Paper based on Homelessness Prediction project - see Projects.
+		\end{itemize}}
+\end{entrylist}
+
+\end{document}
