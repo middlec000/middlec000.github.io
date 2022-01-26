@@ -974,11 +974,6 @@ INPUT c:/texlive/2021/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
 INPUT c:/texlive/2021/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
 INPUT c:/texlive/2021/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-ts1.tfm
-INPUT c:/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
-INPUT c:/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
-INPUT c:/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
-INPUT c:/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/ectt1095.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/vf/impallari/raleway/Raleway-Bold-tlf-t1.vf
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Bold-tlf-t1--base.tfm
 INPUT c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -992,6 +987,11 @@ INPUT c:/texlive/2021/texmf-dist/fonts/vf/impallari/raleway/Raleway-Bold-tlf-t1.
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Bold-tlf-t1--base.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/vf/impallari/raleway/Raleway-Regular-tlf-ts1.vf
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-ts1--base.tfm
+INPUT c:/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT c:/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT c:/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT c:/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/ectt1095.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-BoldItalic-tlf-t1.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/vf/impallari/raleway/Raleway-BoldItalic-tlf-t1.vf
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-BoldItalic-tlf-t1--base.tfm
