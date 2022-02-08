@@ -6,11 +6,11 @@ My name is Colin Middleton and I am currently looking for work in the field of D
 # About Me
 ## Education
 * MS Applied Mathematics from Eastern Washington University, June 2021  
-* BS Mathematics from Western Washington Universtiy, December 2017  
+* BS Mathematics from Western Washington University, December 2017  
 
 ## Interests
-* Personalized Medicine - Each one of us is different. We often present different symptoms for the same condition and we respond differently to the same medicine. Data is the answer - we need to learn what information determines these differences and find ways to collect it non-invasively.   
-* Homelessness Prevention - Preventing individauls from experiencing homelessness is more humane and cost effective than waiting to assist people only after they have lost their homes. 
+* Personalized Medicine - Each one of us is different. We often present different symptoms for the same condition and we respond differently to the same medicine. Data is the answer - we need to learn what information determines these differences and find ways to collect it passively.   
+* Homelessness Prevention - Preventing individuals from experiencing homelessness is more humane and cost effective than waiting to assist people only after they have lost their homes. 
 * Data Science Tools - I am always learning new tools to help me investigate and visualize data, fit models, and present results.  
 * Outdoors - Currently living in Alpine, Wyoming and enjoying exploring the surrounding mountains by foot and ski.
  
