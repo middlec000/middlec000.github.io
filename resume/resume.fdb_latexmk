@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1643056485 "c:/Users/colin/Documents/GitHub/middlec000.github.io/resume/resume.tex" "resume.pdf" "resume" 1643056487
-  "c:/Users/colin/Documents/GitHub/middlec000.github.io/resume/resume.tex" 1643056484 5546 0bbb1204cee047bb00c37cdc0b63c86b ""
+["pdflatex"] 1643056485 "c:/Users/colin/Documents/GitHub/middlec000.github.io/resume/resume.tex" "resume.pdf" "resume" 1644354176
+  "c:/Users/colin/Documents/GitHub/middlec000.github.io/resume/resume.tex" 1644354175 5546 0bbb1204cee047bb00c37cdc0b63c86b ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc" 1628623545 2956 e1fccf4917ff205596489dab079ad56f ""
   "c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1628616055 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Bold-tlf-t1--base.tfm" 1628623546 1824 c71cce5d5dd42172a3caef2a05dd4bc5 ""
@@ -180,9 +180,9 @@
   "developercv.cls" 1624554812 7491 49bc7dc549b8bf54dcfac6e809a28d4b ""
   "resume.aux" 1643056487 994 a05a23988bc964963dd43d55b61cfdf7 "pdflatex"
   "resume.out" 1643056487 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume.tex" 1643056484 5546 0bbb1204cee047bb00c37cdc0b63c86b ""
+  "resume.tex" 1644354175 5546 0bbb1204cee047bb00c37cdc0b63c86b ""
   (generated)
-  "resume.log"
-  "resume.aux"
-  "resume.pdf"
   "resume.out"
+  "resume.aux"
+  "resume.log"
+  "resume.pdf"
