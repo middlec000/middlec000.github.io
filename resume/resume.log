@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.10)  3 MAR 2022 06:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.10)  7 MAR 2022 08:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -881,13 +881,13 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  23903 strings out of 478542
  448577 string characters out of 5854402
- 775089 words of memory out of 5000000
+ 775090 words of memory out of 5000000
  41408 multiletter control sequences out of 15000+600000
  502072 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,6n,122p,505b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}<c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bold.pfb><c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Regular.pfb>
-Output written on resume.pdf (1 page, 48827 bytes).
+Output written on resume.pdf (1 page, 48829 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream
