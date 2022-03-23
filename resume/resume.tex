@@ -1,182 +1,134 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Developer CV
-% LaTeX Template
-% Version 1.0 (28/1/19)
-%
-% This template originates from:
-% http://www.LaTeXTemplates.com
-%
-% Authors:
-% Jan Vorisek (jan@vorisek.me)
-% Based on a template by Jan Küster (info@jankuester.com)
-% Modified for LaTeX Templates by Vel (vel@LaTeXTemplates.com)
-%
-% License:
-% The MIT License (see included LICENSE file)
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[letter,10pt]{article}
+\usepackage[utf8]{inputenc}
 
-%----------------------------------------------------------------------------------------
-%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
-%----------------------------------------------------------------------------------------
+%====================
+% File:         resume.tex
+% Editor:       https://github.com/TimmyChan 
+%               https://www.linkedin.com/in/timmy-l-chan/
+% Last Updated: Jan 7th, 2022
+% Notes:        All formatting is done in TLCresume.sty
+%               No need to touch that file. 
+%               All actual content is in the sections/ folder.
+%====================
 
-\documentclass[11pt]{developercv} % Default font size, values from 8-12pt are recommended
-\usepackage{graphicx}
-\usepackage{float}
-\usepackage{multicol}
-\usepackage{amsmath}
+\usepackage{TLCresume}
 
-\newcommand{\vsp}{\vspace{-10pt}}
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Colin Middleton} % Name Here
+\def\phone{+1-360-206-7812}
+\def\city{Leavenworth, WA}
+\def\email{colindmiddleton@gmail.com}
+\def\LinkedIn{colin-middleton-000} % linkedin.com/in/______
+\def\github{middlec000} % github username
+\def\role{Entry Level Data Scientist} % JOB TITLE
+\def\web{https://middlec000.github.io/} % website
 
-%----------------------------------------------------------------------------------------
-
+\input{_header}
 \begin{document}
-\setlength{\abovedisplayskip}{0pt}
-\setlength{\belowdisplayskip}{0pt}
+%====================
+% Objective Statement
+%====================
+Recent Eastern Washington University graduate with an MS in Applied Mathematics. Completed thesis project on predicting likelihood of homelessness based on an individual's utility billing history. Strong background in applied mathematics and statistics with practical experience in data exploration, manipulation, analysis, and prediction. Seeking to launch career with innovative and learning-focused company.
 
-%----------------------------------------------------------------------------------------
-%	TITLE AND CONTACT INFORMATION
-%----------------------------------------------------------------------------------------
-\begin{minipage}{0.75\textwidth}
-	\colorbox{black}{{\HUGE\textcolor{white}{\textbf{\MakeUppercase{Colin Middleton, MS}}}}}
-\end{minipage}
-\begin{minipage}{0.25\textwidth}
-	{\huge Data \\Scientist}
-\end{minipage}
+\section{Skills}
+\begin{tabular}{p{11em} p{1em} p{43em}}
+    \skills{Software Languages} & & Python (pandas, numpy, statsmodels, scikit-learn, matplotlib, seaborn, scipy, tensorflow, streamlit), \\
+     & & R, SQL, Java, Git, \LaTeX, MarkDown \\
+    \skills{Data Analysis} & & Correlation, Boxplot, Histogram, Q-Q Plot, Hypothesis Testing \\
+    \skills{Data Preperation} & & Reformatting, Filtering, Imputation, Class Balancing \\
+    \skills{Supervised Learning} & & Linear Regression, Logistic Regression, Cox Proportional Hazards, Vanilla ANN, LSTM, Decision Trees \\
+    \skills{Unsupervised Learning} & & K-Means Clustering, Hierarchical Clustering, Principal Component Analysis \\
+    \skills{Performance Analysis} & & Performance Metrics, Parameter Interpretation
+\end{tabular}
 
-%\vspace{6pt}
+\section{Education}
+\subsection{{Master of Science in Applied Mathematics / Eastern Washington University \hfill September 2019 --- June 2021}}
+\begin{zitemize}
+    \item GPA: 4.0
+    \item First graduate of reopened program (2021)
+    \item Outstanding Graduate Award (2021)
+    \item Graduate Service Appointment (2020 --- 2021)
+\end{zitemize}
 
-%{\huge Data Scientist} % Career or current job title
+\subsection{{Bachelor of Science in Mathematics / Western Washington University \hfill September 2013 --- December 2017}}
+\begin{zitemize}
+    \item GPA: 3.5
+    \item Minors: Honors, Chemistry
+    \item Math Fellow (2015 - 2017)
+    \item Presidential Scholarship (2013)
+\end{zitemize}
 
-\vspace{-5pt}
+\section{Project Experience}
+\subsection{{Data Science Lead / Homelessness Prediction \hfill June 2020 --- June 2021}}
+\subtext{Spokane Predictive Analytics and Master's Thesis Project \hfill Spokane, WA}
+\begin{zitemize}
+    \item Established specific research questions.
+    \item Received, matched, and preprocessed de-identified data from multiple files using Python.
+    \item Performed data exploration on the 91,591 rows using multiple types of correlation and data visualization to determine relationships within the data with Python.
+    \item Engineered new cumulative features.
+    \item Investigated longitudinal approaches with Linear Regression, Cox Proportional Hazards, and LSTM models as well as non-longitudinal approaches with Logistic Regression and Vanilla ANN models using Python.
+    \item Evaluated and compared models based on their Receiver Operator Characterisic curves. The Logistic Regression model performed best with an Area Under the Curve of 0.81 - similar to current research.
+    \item Utilized K-Folds and minority class oversampling to combat extreme data imbalance (0.39\% positive cases).
+    \item Presented findings to the City Council of Spokane and defended as master's thesis. 
+    \item Paper pending publication in a peer reviewed journal.
+\end{zitemize}
 
-\begin{center}
-	1-360-206-7812
-	\hspace{0.25cm} | \hspace{0.25cm}
-	\href{mailto:colindmiddleton@gmail.com}{colindmiddleton@gmail}
-	\hspace{0.25cm} | \hspace{0.25cm}
-	\href{https://www.linkedin.com/in/colin-middleton-000/}{LinkedIn}
-	\hspace{0.25cm} | \hspace{0.25cm}
-	\href{https://middlec000.github.io/}{middlec000.github.io}
-\end{center}
+\subsection{{Software Engineer / Academic Paper Clustering by Topic \hfill January 2021 --- March 2021}}
+\subtext{Big Data Analytics Class Project, Eastern Washington University \hfill Spokane, WA}
+\begin{zitemize}
+    \item Established a data preprocessing pipeline that pulled the body of each paper, detected the language and only retained English documents, tokenized and lemmatized each text, then converted all documents to sparse vectors of TF-IDF scores using Python.
+    \item Assisted with development of a customized K-Means algorithm optimized for sparse, largely disjoint TF-IDF vectors.
+    \item Developed component to determine number of clusters to form using the Elbow Method.
+    \item Currently working on publishing a fast hierarchical text document clustering Python package as an extension of this work.
+\end{zitemize}
 
-\vsp
+\subsection{{Data Analyst / The Wordler \hfill March 2022 --- Present}}
+\subtext{Personal Project \hfill Leavenworth, WA}
+\begin{zitemize}
+    \item Acquired data from Kaggle and Wordle website source code.
+    \item Created data filters using regular expressions in Python.
+    \item Created Streamlit website to suggest Wordle words for users: \href{https://share.streamlit.io/middlec000/wordler/main/src/main.py}{The Wordler}
+\end{zitemize}
 
-%----------------------------------------------------------------------------------------
-%	FAMILIAR TOOLS
-%----------------------------------------------------------------------------------------
-\cvsect{Familiar Tools}
+\newpage
+\section{Work Experience}
+\subsection{{Architectural Drafter \hfill January 2022 --- Present}}
+\subtext{Alison Miller Architect \hfill Leavenworth, WA}
+\begin{zitemize}
+    \item Create drawings using AutoCAD LT: floor plans, roof plans, sections, exterior elevations, window and door schedules.
+    \item Final drawing set: dimensioning, code compliance, viewport scaling.
+    \item Site measure existing buildings for remodel.
+    \item Use Dropbox to share files.
+\end{zitemize}
 
-\vsp
+\subsection{{Architectural Drafter \hfill October 2018 --- December 2021}}
+\subtext{Brooks Middleton Architect \hfill Anacortes, WA}
+\begin{zitemize}
+    \item  Created drawings using AutoCAD LT: site plans, floor plans, roof plans, electrical plans, sections, interior elevations, exterior elevations, window, door, and finish schedules.
+    \item Made design adjustments and suggestions.
+    \item Researched building code and construction product specifications.
+\end{zitemize}
 
-\begin{center}
-	Python: \quad pandas \quad numpy \quad statsmodels \quad scikit-learn \quad matplotlib 
-	\\
-	\vspace{0.25cm}
-	R \quad | \quad Java \quad | \quad SQL \quad | \quad
-	Jupyter Notebooks \quad | \quad GitHub \quad | \quad LaTeX
-\end{center}
+\section{Related Coursework}
+\subsection{{Eastern Washington University \hfill September 2019 --- June 2021}}
+\begin{zitemize}
+    \item Big Data Analytics
+    \item Advanced Topics in Statistics
+    \item Applied Linear Statistical Modeling
+    \item Data Mining
+    \item Independent Study: Time Series Analysis
+    \item Relational Database Systems
+\end{zitemize}
 
-\vsp
-
-%----------------------------------------------------------------------------------------
-%	EDUCATION
-%----------------------------------------------------------------------------------------
-
-\cvsect{Education}
-
-\begin{entrylist}
-	\entry
-		{Sep 2019\\
-		-- Jun 2021}
-		{Applied Mathematics, MS}
-		{Eastern Washington University}
-		{Total Credits: 79 \hspace{103pt} GPA: 4.0 \\
-		Awards: Outstanding Graduate, Graduate Service Appointment
-		}
-	\entry
-		{Sep 2013\\
-		-- Dec 2017}
-		{Mathematics, BS}
-		{Western Washington University}
-		{Total Credits: 211 \hspace{100pt} GPA: 3.5 \\
-		Minors: Honors, Chemistry
-		Awards: Math Fellow
-		}
-\end{entrylist}
-
-\vsp
-
-%----------------------------------------------------------------------------------------
-%	PROJECTS
-%----------------------------------------------------------------------------------------
-
-\cvsect{Projects}
-
-\begin{entrylist}
-	\entry
-	    {Jun 2020 \\
-		-- Jun 2021}
-	    {Homelessness Prediction}
-	    {Spokane Predictive Analytics}
-	    {Used Logistic Regression, Cox Proportional Hazards, and LSTM models with monthly customer utility payment data to predict risk of experiencing homelessness. Matched data and engineered new features. Presented findings to city officials at City of Spokane meeting. (Python + JupyterLab)}
-	\entry
-		{Jan 2021 \\
-		-- Mar 2021}
-		{Academic Paper Clustering by Topic}
-		{Big Data Analytics Class Project}
-		{Collaborated on customized K-Means model to cluster text documents into groups by topic using bag-of-words TF-IDF representation and custom dot product distance metric. Custom output with intelligible group themes. (Python)}
-	\entry
-		{2017}
-		{Traffic Prediction Senior Project}
-		{Whatcom Council of Governments}
-		{Employed averaging, PCA, and speed + distance ratio methods to predict traffic flow arriving at the US / Canadian border. (Excel)}
-\end{entrylist}
-
-\vsp
-
-%----------------------------------------------------------------------------------------
-%	WORK EXPERIENCE
-%----------------------------------------------------------------------------------------
-
-\cvsect{Work Experience}
-
-\begin{entrylist}
-	\entry
-		{Jan 2022 \\
-		-- Current}
-		{Architectural Drafter}
-		{Alison Miller}
-		{Create drawings using AutoCAD LT. Site measure existing building for remodel. Use Dropbox to share files.}
-	\entry
-		{Oct 2018 \\
-		-- Dec 2021}
-		{Architectural Drafter}
-		{Brooks Middleton Architect}
-		{Created drawings using AutoCAD LT. Made design adjustments and suggestions. Researched building code and construction product specifications.}
-\end{entrylist}
-
-\vsp
-
-%----------------------------------------------------------------------------------------
-%	Related Coursework
-%----------------------------------------------------------------------------------------
-
-\cvsect{Related Coursework}
-
-\begin{entrylist}
-	\entry
-		{Apr 2020 \\
-		-- Jun 2020}
-		{Advanced Topics in Statistics}
-		{Eastern Washington University}
-		{Credit Hours: 5.00 \hspace{100pt} Grade: A}
-	\entry
-		{Jan 2021 \\
-		-- Mar 2021}
-		{Big Data Analytics}
-		{Eastern Washington University}
-		{Credit Hours: 4.00 \hspace{100pt} Grade: A}
-\end{entrylist}
+\subsection{{Western Washington University \hfill September 2013 --- December 2017}}
+\begin{zitemize}
+    \item Probability and Statistical Inference
+    \item Nonlinear Optimization
+    \item Linear Optimization
+    \item Linear Algebra
+    \item Mathematical Modeling
+\end{zitemize}
 
 \end{document}
