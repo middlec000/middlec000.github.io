@@ -1,8 +1,8 @@
-PWD c:/Users/colin/Documents/GitHub/middlec000.github.io/resume2.0
+PWD c:/Users/colin/Documents/GitHub/middlec000.github.io/resume
 INPUT c:/texlive/2021/texmf.cnf
 INPUT c:/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/colin/Documents/GitHub/middlec000.github.io/resume2.0/resume.tex
+INPUT c:/Users/colin/Documents/GitHub/middlec000.github.io/resume/resume.tex
 OUTPUT resume.log
 INPUT c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2021/texmf-dist/tex/latex/base/article.cls

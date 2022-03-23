@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.10)  23 MAR 2022 10:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.10)  23 MAR 2022 13:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/colin/Documents/GitHub/middlec000.github.io/resume2.0/resume.tex
-(c:/Users/colin/Documents/GitHub/middlec000.github.io/resume2.0/resume.tex
+**c:/Users/colin/Documents/GitHub/middlec000.github.io/resume/resume.tex
+(c:/Users/colin/Documents/GitHub/middlec000.github.io/resume/resume.tex
 LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-07-12> (c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
@@ -704,14 +704,14 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  13856 strings out of 478542
- 214847 string characters out of 5854402
- 594517 words of memory out of 5000000
+ 214838 string characters out of 5854402
+ 594520 words of memory out of 5000000
  31529 multiletter control sequences out of 15000+600000
  491540 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 140i,11n,136p,706b,391s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 140i,11n,136p,703b,391s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}<c:/texlive/2021/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><c:/texlive/2021/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><c:/texlive/2021/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb>
-Output written on resume.pdf (2 pages, 179155 bytes).
+Output written on resume.pdf (2 pages, 179161 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream
