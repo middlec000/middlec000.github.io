@@ -4,14 +4,11 @@
 My name is Colin Middleton and I am currently looking for work in the field of Data Science.  
 
 # Contact 
-* +1-360-206-7812  
-* [colindmiddleton@gmail.com](mailto:colindmiddleton@gmail.com)  
-* [LinkedIn](https://www.linkedin.com/in/colin-middleton-000/)  
-* [GitHub](https://github.com/middlec000) 
+| +1-360-206-7812 | [colindmiddleton@gmail.com](mailto:colindmiddleton@gmail.com) | [LinkedIn](https://www.linkedin.com/in/colin-middleton-000/) | [GitHub](https://github.com/middlec000) 
 
 # Education
-* MS Applied Mathematics | Eastern Washington University | June 2021  
-* BS Mathematics | Western Washington University | December 2017  
+| MS Applied Mathematics | Eastern Washington University | June 2021 |  
+| BS Mathematics | Western Washington University | December 2017 |  
 
 # Interests
 * Personalized Medicine - Each one of us is different. We often present different symptoms for the same condition and we respond differently to the same medicine. Data science is the answer - if we learn what information determines these differences and find ways to collect it passively it can be used to more effectively and efficiently treat and prevent negative health outcomes.   
@@ -23,10 +20,11 @@ My name is Colin Middleton and I am currently looking for work in the field of D
 * Outdoors - Currently living in Leavenworth, WA and enjoying exploring the surrounding mountains. 
 
 # Documents
-* [Resume](resume/resume.pdf)
-* [CV](cv/cv.pdf)
+| [Resume](resume/resume.pdf) | [CV](cv/cv.pdf) |
 
 # Portfolio
+You can click on each of the project headers to visit my GitHub repository for each project.
+
 ## [Predicting Homelessness (Pending Publication)](https://github.com/middlec000/SPA_predict_homelessness)
 Used a logistic regression model to predict an individual's risk of experiencing homelessness based on their utility payment history.  
 Tools: Python (pandas, numpy, statsmodels, scikit-learn, matplotlib)
