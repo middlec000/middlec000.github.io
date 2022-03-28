@@ -1,8 +1,8 @@
-PWD c:/Users/colin/Documents/GitHub/middlec000.github.io/cv2
+PWD c:/Users/colin/Documents/GitHub/middlec000.github.io/cv
 INPUT c:/texlive/2021/texmf.cnf
 INPUT c:/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/colin/Documents/GitHub/middlec000.github.io/cv2/cv.tex
+INPUT c:/Users/colin/Documents/GitHub/middlec000.github.io/cv/cv.tex
 OUTPUT cv.log
 INPUT c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
