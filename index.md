@@ -1,46 +1,74 @@
-![alt text](./images/static_peak.jpg "September 2021 - Static Peak, Tetons, WY")
+<table>
+<tr>
+<td>
 
-# Welcome to my Personal Website!
-My name is Colin Middleton and I am currently looking for work in the field of Data Science.  
+![alt text](./images/headshot_cropped.jpg)
+
+</td>
+<td>
 
 # Contact 
-| +1-360-206-7812 | [colindmiddleton@gmail.com](mailto:colindmiddleton@gmail.com) | [LinkedIn](https://www.linkedin.com/in/colin-middleton-000/) | [GitHub](https://github.com/middlec000) 
+Phone: +1-360-206-7812  
+Email: [colindmiddleton@gmail.com](mailto:colindmiddleton@gmail.com)  
+LinkedIn: [colin-middleton-000](https://www.linkedin.com/in/colin-middleton-000/)  
+GitHub: [middlec000](https://github.com/middlec000)
+
+</td>
+</tr>
+</table>
+
+# Welcome to my Website!
+My name is Colin Middleton. I am a recent graduate with an MS in Applied Math and I am currently looking for a job in the field of Data Science.  
 
 # Education
-| MS Applied Mathematics | Eastern Washington University | June 2021 |  
-| BS Mathematics | Western Washington University | December 2017 |  
+## MS Applied Mathematics
+_Eastern Washington University_, June 2021  
+GPA: 4.0  
+Outstanding Graduate Award  
+Graduate Service Appointment  
+[Transcript](transcripts/EWU_transcript.pdf)  
+## BS Mathematics
+_Western Washington University_, December 2017  
+GPA: 3.5  
+Minor: Chemistry  
+Math Fellow  
+Honors Program Graduate  
+Presidential Scholarship Recipient  
+[Transcript](transcripts/WWU_transcript.pdf)
 
 # Interests
 * Personalized Medicine - Each one of us is different. We often present different symptoms for the same condition and we respond differently to the same medicine. Data science is the answer - if we learn what information determines these differences and find ways to collect it passively it can be used to more effectively and efficiently treat and prevent negative health outcomes.   
 
-* Homelessness Prevention - Preventing individuals from experiencing homelessness is more humane and cost-effective than waiting to assist people only after they have lost their homes. See my Predicting Homelessness project below.
+* Negative Socioeconomic Outcome Prevention - Preventing individuals from experiencing negative socioeconomic outcomes such as homelessness is more humane and cost-effective than waiting to assist people only after they have reached the negative outcome, such as losing their homes. See my Predicting Homelessness project below.
 
-* Data Science Tools - I am always learning new tools to help me investigate and visualize data, fit models, and present results.
+* Data Science Tools - I always enjoy learning new tools to help extract, investigate, transform, and visualize data, fit models, and present results.
 
-* Outdoors - Currently living in Leavenworth, WA and enjoying exploring the surrounding mountains. 
+* Outdoors - I am currently living in Leavenworth, Washington, and enjoying exploring the surrounding mountains. 
 
-# Documents
+# Professional Documents
 | [Resume](resume/resume.pdf) | [CV](cv/cv.pdf) |
 
 # Portfolio
-You can click on each of the project headers to visit my GitHub repository for each project.
+You can click on each of the project headers to visit the GitHub repository for each project.
 
 ## [Predicting Homelessness (Pending Publication)](https://github.com/middlec000/SPA_predict_homelessness)
 Used a logistic regression model to predict an individual's risk of experiencing homelessness based on their utility payment history.  
 Tools: Python (pandas, numpy, statsmodels, scikit-learn, matplotlib)
 
 ## [The Wordler](https://github.com/middlec000/wordler)
-A website that suggests words for you to use for the game of Wordle based on your previous guesses and ranked by frequency of use.  
+A website that suggests words for you to use for the New York Times Wordle game based on your previous guesses and ranked by frequency of use.  
 Tools: Python (streamlit, pandas)
 
-## [One-Way ANOVA Streamlit Website](https://share.streamlit.io/middlec000/grades_vs_student_characteristic/main/src/main.py)
-Upload your data, group it by a categorical column, then analyze if there is a statistically significant difference in means of a continuous column between groups. Example provided.  
+## [One-Way ANOVA Website](https://share.streamlit.io/middlec000/grades_vs_student_characteristic/main/src/main.py)
+Upload your data, group it by a categorical column, then determine if there is a statistically significant difference in means of a continuous variable between groups. Example provided.  
 Tools: Python (streamlit, pandas, statsmodels)
 
 ## [Wine Quality Classification](https://github.com/middlec000/wine_quality)
 Used a random forest model to classify wine into one of six quality rankings based on given attributes.  
 Tools: R (Hmisc, corrplot, randomForest, caret, ggplot2)
 
-## In Development
-Check out my [GitHub Profile Page](https://github.com/middlec000) to see all my projects. These include:
-* Fast heirarchical text document clustering Python package
+## [In Development](https://github.com/middlec000?tab=repositories)
+The above link will take you to the list of all of my GitHub repositories. Projects in development include:
+* A fast hierarchical text document clustering Python package
+
+![alt text](./images/static_peak.jpg "September 2021 - Static Peak, Tetons, WY")

@@ -1,0 +1,98 @@
+---
+PERSONAL INFORMATION
+---
+Name: Colin Middleton
+Address: 603 Birch Street, Leavenworth, WA 98826
+Mobile Phone: 13602067812
+Email: colindmiddleton@gmail.com
+LinkedIn: https://www.linkedin.com/in/colin-middleton-000/
+Website: https://middlec000.github.io/
+
+---
+EXPERIENCE
+---
+Position Title: Architectural Drafter
+Employer Name: Alison Miller Architect
+Location: Leavenworth, WA, USA
+Dates: January 2022 - Present
+* Create drawings using AutoCAD LT: floor plans, roof plans, sections, exterior elevations, window and door schedules.
+* Final drawing set: dimensioning, code compliance, viewport scaling.
+* Site measure existing buildings for remodel.
+* Use Dropbox to share files.
+
+Position Title: Architectural Drafter
+Employer Name: Brooks Middleton Architect
+Location: Anacortes, WA, USA
+Dates: October 2018 - December 2021
+* Created drawings using AutoCAD LT: site plans, floor plans, roof plans, electrical plans, sections, interior elevations, exterior elevations, window, door, and finish schedules.
+* Made design adjustments and suggestions.
+* Researched building code and construction product specifications.
+
+---
+EDUCATION
+---
+Degree: Master of Science
+School: Eastern Washington University
+Location: Cheney, WA, USA
+Dates: September 2019 - June 2021
+Major: Applied Mathematics
+Minor: 
+G.P.A.: 4.0
+
+Degree: Bachelor of Science
+School: Western Washington University
+Location: Bellingham, WA, USA
+Dates: September 2013 - December 2017
+Major: Mathematics
+Minor: Chemistry
+GPA: 3.5
+
+---
+RELATED COURSEWORK
+---
+Big Data Analytics
+Advanced Topics in Statistics
+Applied Linear Statistical Modeling
+Data Mining
+Independent Study: Time Series Analysis
+Relational Database Systems
+Probability and Statistical Inference
+Nonlinear Optimization
+Linear Optimization
+Linear Algebra
+Mathematical Modeling
+
+---
+REFERENCES
+---
+Kim Boynton
+Data Analyst
+Avista
+Spokane, WA
+Relationship: Project Leader
+Kim.Boynton@avistacorp.com 
+509-495-4744
+
+David Lewis
+Head of Strategic Programs
+Eccovia
+Salt Lake City, UT
+Relationship: Project Associate
+dlewis@eccovia.com 
+425-422-9023
+
+Melissa Graham
+Senior Lecturer
+Eastern Washington University
+Cheney, WA
+Relationship: Manager
+melissa.graham@ewu.edu 
+509-481-8125
+
+Alison Miller
+Architect, Owner
+Alison Miller Architect
+Leavenworth, WA
+Relationship: Manager
+alison@alisonmillerarch.com 
+509-860-3545
