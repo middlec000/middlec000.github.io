@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.10)  5 APR 2022 15:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.10)  7 APR 2022 08:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -26,9 +26,13 @@ File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
-) (./TLCresume.sty
+) (../resources/TLCresume.sty
+
+LaTeX Warning: You have requested package `../resources/TLCresume',
+               but the package provides `TLCresume'.
+
 Package: TLCresume 11/19/21 resume package
- (c:/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+(c:/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (c:/texlive/2021/texmf-dist/tex/latex/sourcesanspro/sourcesanspro.sty
 Package: sourcesanspro 2018/05/19 v2.7 Adobe's Source Sans Pro typeface
@@ -342,7 +346,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip49
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 25.
+Package hyperref Info: Option `colorlinks' set `true' on input line 26.
  (c:/texlive/2021/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \enitkv@toks@=\toks22
@@ -474,7 +478,7 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@randommax=\count299
 \c@blind@pangramcount=\count300
 \c@blind@pangrammax=\count301
-) (./_header.tex (c:/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+) (../resources/_header.tex (c:/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip53
 \f@nch@O@elh=\skip54
@@ -688,33 +692,37 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 120.
+(hyperref)                removing `\hfill' on input line 119.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\hfill' on input line 131.
 
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 142.
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.140 \end{document}
+l.151 \end{document}
                      [2] (./resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 446A965BE1C2B06E8D352A5CA56888DD;4128.
+(rerunfilecheck)             Checksum: 3BD77A9971C1EE2F0A322FEAF487E1FD;4485.
  ) 
 Here is how much of TeX's memory you used:
- 13858 strings out of 478542
- 214858 string characters out of 5854402
- 593023 words of memory out of 5000000
- 31530 multiletter control sequences out of 15000+600000
+ 13862 strings out of 478542
+ 215039 string characters out of 5854402
+ 593049 words of memory out of 5000000
+ 31532 multiletter control sequences out of 15000+600000
  491540 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  140i,11n,136p,602b,391s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}<c:/texlive/2021/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><c:/texlive/2021/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><c:/texlive/2021/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb>
-Output written on resume.pdf (2 pages, 179433 bytes).
+Output written on resume.pdf (2 pages, 180752 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 118 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
+ 18 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1649198907 "c:/Users/colin/Documents/GitHub/middlec000.github.io/resume/resume.tex" "resume.pdf" "resume" 1649198910
-  "TLCresume.sty" 1648041535 1672 04da0195124c448e6e2be430078212f1 ""
-  "_header.tex" 1648045636 761 8d645451c2711cff587a0bfb2c777b27 ""
-  "c:/Users/colin/Documents/GitHub/middlec000.github.io/resume/resume.tex" 1649198903 7295 8de89a6e45aa5d307ea3f3244d2a88a9 ""
+["pdflatex"] 1649343850 "c:/Users/colin/Documents/GitHub/middlec000.github.io/resume/resume.tex" "resume.pdf" "resume" 1649343852
+  "../resources/TLCresume.sty" 1649343763 1718 83c978f37f65eb69f373afd254cd66a5 ""
+  "../resources/_header.tex" 1648045636 761 8d645451c2711cff587a0bfb2c777b27 ""
+  "c:/Users/colin/Documents/GitHub/middlec000.github.io/resume/resume.tex" 1649343848 7954 d4c0d6b612fca10952c3dd69bc76b0c6 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc" 1628628076 3267 177411e539fcc6ace86309ff03b22da6 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc" 1628628076 3344 37c976a8b2fa4b8f132a488735054f7d ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc" 1628628076 3021 665788e9679767ade2a71155215d25e0 ""
@@ -122,11 +122,11 @@
   "c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1628631839 5227287 e151fc6fd8e09c44e5f41e1c855f0ff4 ""
   "c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1628632046 2801562 7213db24cbddc94e17b940051d813949 ""
   "c:/texlive/2021/texmf.cnf" 1628631811 713 e69b156964470283e0530f5060668171 ""
-  "resume.aux" 1649198910 3050 a7fdddafe4710c137bc99bf0a0e8bb0a "pdflatex"
-  "resume.out" 1649198910 4128 446a965be1c2b06e8d352a5ca56888dd "pdflatex"
-  "resume.tex" 1649198903 7295 8de89a6e45aa5d307ea3f3244d2a88a9 ""
+  "resume.aux" 1649343852 3222 099ce44dcc5497fd509e684fa9cb304a "pdflatex"
+  "resume.out" 1649343852 4485 3bd77a9971c1ee2f0a322feaf487e1fd "pdflatex"
+  "resume.tex" 1649343848 7954 d4c0d6b612fca10952c3dd69bc76b0c6 ""
   (generated)
   "resume.out"
+  "resume.aux"
   "resume.pdf"
   "resume.log"
-  "resume.aux"

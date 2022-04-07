@@ -1,8 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1648503545 "c:/Users/colin/Documents/GitHub/middlec000.github.io/cv/cv.tex" "cv.pdf" "cv" 1648503548
+["pdflatex"] 1649343772 "c:/Users/colin/Documents/GitHub/middlec000.github.io/cv/cv.tex" "cv.pdf" "cv" 1649343774
+  "../resources/TLCresume.sty" 1649343763 1718 83c978f37f65eb69f373afd254cd66a5 ""
   "TLCresume.sty" 1648041535 1672 04da0195124c448e6e2be430078212f1 ""
   "_header.tex" 1648045636 761 8d645451c2711cff587a0bfb2c777b27 ""
-  "c:/Users/colin/Documents/GitHub/middlec000.github.io/cv/cv.tex" 1648503543 10478 1e280b608d40ca4d51657ddff13773d2 ""
+  "c:/Users/colin/Documents/GitHub/middlec000.github.io/cv/cv.tex" 1649343770 10592 def898580f5acdb6b6fb6757a9373322 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1628616188 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc" 1628628076 3267 177411e539fcc6ace86309ff03b22da6 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc" 1628628076 3344 37c976a8b2fa4b8f132a488735054f7d ""
@@ -126,11 +127,11 @@
   "c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1628631839 5227287 e151fc6fd8e09c44e5f41e1c855f0ff4 ""
   "c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1628632046 2801562 7213db24cbddc94e17b940051d813949 ""
   "c:/texlive/2021/texmf.cnf" 1628631811 713 e69b156964470283e0530f5060668171 ""
-  "cv.aux" 1648503547 4348 f6fb0823f6d35a5de698deb179c61583 "pdflatex"
-  "cv.out" 1648503547 7170 3cc63418df671df3bb93c2f62d1e00fe "pdflatex"
-  "cv.tex" 1648503543 10478 1e280b608d40ca4d51657ddff13773d2 ""
+  "cv.aux" 1649343774 4284 cf14fee130586b6ae26511d1967b18aa "pdflatex"
+  "cv.out" 1649343774 6826 25f21aa0edd8e3aad96c5dd39556bd3c "pdflatex"
+  "cv.tex" 1649343770 10592 def898580f5acdb6b6fb6757a9373322 ""
   (generated)
   "cv.out"
   "cv.aux"
-  "cv.pdf"
   "cv.log"
+  "cv.pdf"
