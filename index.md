@@ -26,7 +26,8 @@ _Eastern Washington University_, June 2021
 GPA: 4.0  
 Outstanding Graduate Award  
 Graduate Service Appointment  
-[Transcript](transcripts/EWU_transcript.pdf)  
+[EWU Transcript](transcripts/EWU_transcript.pdf)    
+
 ## BS Mathematics
 _Western Washington University_, December 2017  
 GPA: 3.5  
@@ -34,7 +35,7 @@ Minor: Chemistry
 Math Fellow  
 Honors Program Graduate  
 Presidential Scholarship Recipient  
-[Transcript](transcripts/WWU_transcript.pdf)
+[WWU Transcript](transcripts/WWU_transcript.pdf)  
 
 # Interests
 * Personalized Medicine - Each one of us is different. We often present different symptoms for the same condition and we respond differently to the same medicine. Data science is the answer - if we learn what information determines these differences and find ways to collect it passively it can be used to more effectively and efficiently treat and prevent negative health outcomes.   
@@ -46,7 +47,7 @@ Presidential Scholarship Recipient
 * Outdoors - I am currently living in Leavenworth, Washington, and enjoying exploring the surrounding mountains. 
 
 # Professional Documents
-| [Resume](resume/resume.pdf) | [CV](cv/cv.pdf) |
+| <a href="https://middlec000.github.io/resume/resume.pdf" target="_blank"> Resume </a> | <a href="https://middlec000.github.io/cv/cv.pdf" target="_blank"> CV </a> |
 
 # Portfolio
 You can click on each of the project headers to visit the GitHub repository for each project.

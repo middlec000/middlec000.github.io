@@ -11,7 +11,7 @@
 %               All actual content is in the sections/ folder.
 %====================
 
-\usepackage{../resources/TLCresume}
+\usepackage{../shared_resources/TLCresume}
 
 %====================
 % CONTACT INFORMATION
@@ -25,7 +25,7 @@
 \def\role{Entry Level Data Scientist} % JOB TITLE
 \def\web{https://middlec000.github.io/} % website
 
-\input{../resources/_header}
+\input{../shared_resources/header}
 \begin{document}
 %====================
 % Objective Statement
@@ -36,6 +36,7 @@ Recent Eastern Washington University graduate with an MS in Applied Mathematics.
 \begin{tabular}{p{11em} p{1em} p{43em}}
     \skills{Software Languages} & & Python (pandas, numpy, statsmodels, scikit-learn, matplotlib, seaborn, scipy, tensorflow, streamlit), \\
      & & R, SQL, Java, Git, \LaTeX, Markdown \\
+     \skills{Software Tools} & & Visual Studio Code, Anaconda, Jupyter Notebooks, Excel, Power BI \\
     \skills{Data Analysis} & & Correlation, Box plot, Histogram, Q-Q Plot, Hypothesis Testing \\
     \skills{Data Preparation} & & Reformatting, Filtering, Imputation, Class Balancing \\
     \skills{Supervised Learning} & & Linear Regression, Logistic Regression, Cox Proportional Hazards, Vanilla ANN, LSTM, Decision Trees \\
@@ -64,88 +65,71 @@ Recent Eastern Washington University graduate with an MS in Applied Mathematics.
 \end{zitemize}
 
 \section{Project Experience}
+\subsection{{Data Analyst / The Wordler \hfill March 2022 --- Present}}
+\subtext{Personal Project \hfill Leavenworth, WA}
+\begin{zitemize}
+    \item Acquired list of words from Wordle website source code and word frequencies from Kaggle dataset.
+    \item Built 6 component data filter using regular expressions in Python.
+    \item Published user-friendly Streamlit website to suggest Wordle words for users.
+    \item Words sorted and displayed by user preference: Word Frequency, Letter Frequency, Letter Position Frequency.
+    \item \url{https://share.streamlit.io/middlec000/wordler/main/src/main.py}
+\end{zitemize}
+
 \subsection{{Data Science Lead / Homelessness Prediction \hfill June 2020 --- June 2021}}
 \subtext{Spokane Predictive Analytics and Master's Thesis Project \hfill Spokane, WA}
 \begin{zitemize}
-    \item Established specific research questions.
-    \item Received, matched, and preprocessed de-identified data from multiple files using Python.
-    \item Worked with data providers to iteratively improve datasets.
-    \item Performed data exploration on the 91,591 rows using multiple types of correlation and data visualization to determine relationships within the data with Python.
-    \item Engineered new cumulative features.
-    \item Investigated longitudinal approaches with Linear Regression, Cox Proportional Hazards, and LSTM models as well as non-longitudinal approaches with Logistic Regression and Vanilla ANN models using Python.
-    \item Evaluated and compared models based on their Receiver Operator Characteristic curves. The Logistic Regression model performed best with an Area Under the Curve of 0.81 - similar to current research.
-    \item Utilized K-Folds and minority class oversampling to combat extreme data imbalance (0.39\% positive cases).
-    \item Presented findings to the City Council of Spokane and defended as master's thesis. 
+    \item Received, matched on composite key, and preprocessed 4,785,131 rows of de-identified data from 8 csv files.
+    \item Communicated with data providers to improve datasets over 5 iterations.
+    \item Performed exploratory data analysis on the monthly billing data representing 91,591 people over a 5-year period using visualization techniques and 4 types of correlation to discover relationships and trends.
+    \item Established data homogeneity across years using ranks of variable-outcome correlations.
+    \item Engineered 2 new cumulative features and 3 new aggregate features.
+    \item Investigated longitudinal prediction approaches using Linear Regression, Cox Proportional Hazards, and LSTM models.
+    \item Investigated non-longitudinal prediction approaches using Logistic Regression and Vanilla ANN models.
+    \item Evaluated and compared models based on Receiver Operator Characteristic curves and Area Under the Curve. The Logistic Regression model performed best with an AUC of 0.81 - similar to current research that incorporated richer data sources.
+    \item Implemented K-Folds and minority class oversampling to make model performance more reproducible and combat extreme class imbalance - only 0.39\% of cases were of the positive class.
+    \item Presented findings to the City Council of Spokane and defended as master's thesis.
     \item Paper pending publication in a peer reviewed journal.
 \end{zitemize}
 
 \subsection{{Software Engineer / Academic Paper Clustering by Topic \hfill January 2021 --- March 2021}}
 \subtext{Big Data Analytics Class Project, Eastern Washington University \hfill Spokane, WA}
 \begin{zitemize}
-    \item Established a data preprocessing pipeline that pulled the body of each paper, detected the language - only retaining English documents, tokenized and lemmatized each text, then converted all documents to sparse vectors of TF-IDF scores using Python.
+    \item Established a data preprocessing pipeline that pulled the body of each paper, detected the language - retaining only English documents, tokenized and lemmatized each text, then converted all documents to sparse vectors of TF-IDF scores using Python.
     \item Assisted with development of a customized K-Means algorithm optimized for sparse, largely disjoint TF-IDF vectors.
-    \item Developed algorithm component to determine number of clusters to form using the Elbow Method.
-    \item Currently working on publishing a fast hierarchical text document clustering Python package as an extension of this work.
-\end{zitemize}
-
-\newpage
-\section{Project Experience}
-\subsection{{Data Analyst / The Wordler \hfill March 2022 --- Present}}
-\subtext{Personal Project \hfill Leavenworth, WA}
-\begin{zitemize}
-    \item Acquired data from Kaggle and Wordle website source code.
-    \item Created data filters using regular expressions in Python.
-    \item Created Streamlit website to suggest Wordle words for users: \href{https://share.streamlit.io/middlec000/wordler/main/src/main.py}{The Wordler}
+    \item Developed component to find the number of clusters to form using the Elbow Method.
+    \item Currently developing a fast hierarchical text document clustering Python package as an extension of this work.
 \end{zitemize}
 
 \section{Work Experience}
 \subsection{{Architectural Drafter \hfill January 2022 --- Present}}
 \subtext{Alison Miller Architect \hfill Leavenworth, WA}
 \begin{zitemize}
-    \item Create drawings using AutoCAD LT: floor plans, roof plans, sections, exterior elevations, window and door schedules.
-    \item Final drawing set: dimensioning, code compliance, viewport scaling.
+    \item Create architectural drawings using AutoCAD LT: floor plans, roof plans, sections, exterior elevations, window and door schedules.
+    \item Assemble drawing sheet set: dimensions, code compliance, viewport setup.
+    \item Communicate work schedule and technical project details.
     \item Site measure existing buildings for remodel.
-    \item Use Dropbox to share files.
+    \item Managed and shared files with Dropbox.
 \end{zitemize}
 
 \subsection{{Architectural Drafter \hfill October 2018 --- December 2021}}
 \subtext{Brooks Middleton Architect \hfill Anacortes, WA}
 \begin{zitemize}
-    \item  Created drawings using AutoCAD LT: site plans, floor plans, roof plans, electrical plans, sections, interior elevations, exterior elevations, window, door, and finish schedules.
-    \item Made design adjustments and suggestions.
+    \item Created drawings using AutoCAD LT: site plans, floor plans, roof plans, electrical plans, sections, interior elevations, exterior elevations, window, door, and finish schedules.
+    \item Communicated work schedule and technical project details.
+    \item Provided feedback and suggestions on design.
     \item Researched building code and construction product specifications.
 \end{zitemize}
 
+\newpage
 \subsection{{Graduate Service Appointment \hfill September 2020 --- June 2021}}
 \subtext{Eastern Washington University \hfill Cheney, WA}
 \begin{zitemize}
-    \item Trained as a university level teacher.
-    \item Completed a final project on student learning and incorporating familiar contexts into lesson plans.
-    \item Developed lesson plans and taught two live remote class sessions (linear algebra).
-    \item Graded homework and exams fairly and efficiently.
+    \item Trained as a university level mathematics teacher.
+    \item Completed a final project on making lessons more applicable to the lives of the students by incorporating familiar contexts into mathematical situations.
+    \item Developed 1 lesson plan and taught 2 live remote class sessions (linear algebra).
+    \item Graded homework and exams fairly and systematically.
     \item Provided feedback and suggestions to students about assignments.
-    \item Provided feedback to professors about their students' progress.
-\end{zitemize}
-
-\section{Related Coursework}
-\subsection{{Eastern Washington University \hfill September 2019 --- June 2021}}
-\begin{zitemize}
-    \item Big Data Analytics (A)
-    \item Advanced Topics in Statistics (A)
-    \item Applied Linear Statistical Modeling (A)
-    \item Data Mining (A)
-    \item Independent Study: Time Series Analysis (A)
-    \item Relational Database Systems (A)
-    \item Data Structures (A)
-\end{zitemize}
-
-\subsection{{Western Washington University \hfill September 2013 --- December 2017}}
-\begin{zitemize}
-    \item Probability and Statistical Inference (A)
-    \item Nonlinear Optimization (B+)
-    \item Linear Optimization (B-)
-    \item Linear Algebra (A-)
-    \item Mathematical Modeling (A)
+    \item Provided feedback to professors about students' comprehension of class material.
 \end{zitemize}
 
 \end{document}

@@ -1,9 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1649343772 "c:/Users/colin/Documents/GitHub/middlec000.github.io/cv/cv.tex" "cv.pdf" "cv" 1649343774
-  "../resources/TLCresume.sty" 1649343763 1718 83c978f37f65eb69f373afd254cd66a5 ""
-  "TLCresume.sty" 1648041535 1672 04da0195124c448e6e2be430078212f1 ""
-  "_header.tex" 1648045636 761 8d645451c2711cff587a0bfb2c777b27 ""
-  "c:/Users/colin/Documents/GitHub/middlec000.github.io/cv/cv.tex" 1649343770 10592 def898580f5acdb6b6fb6757a9373322 ""
+["pdflatex"] 1649640057 "c:/Users/colin/Documents/GitHub/middlec000.github.io/cv/cv.tex" "cv.pdf" "cv" 1649640060
+  "../shared_resources/TLCresume.sty" 1649639607 1774 4a9dd41823864a634ba453b44a2eeb3a ""
+  "../shared_resources/header.tex" 1648045636 761 8d645451c2711cff587a0bfb2c777b27 ""
+  "c:/Users/colin/Documents/GitHub/middlec000.github.io/cv/cv.tex" 1649640056 11694 121c9660f0bba0aafbb36e5992da6f9d ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1628616188 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc" 1628628076 3267 177411e539fcc6ace86309ff03b22da6 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc" 1628628076 3344 37c976a8b2fa4b8f132a488735054f7d ""
@@ -127,11 +126,11 @@
   "c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1628631839 5227287 e151fc6fd8e09c44e5f41e1c855f0ff4 ""
   "c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1628632046 2801562 7213db24cbddc94e17b940051d813949 ""
   "c:/texlive/2021/texmf.cnf" 1628631811 713 e69b156964470283e0530f5060668171 ""
-  "cv.aux" 1649343774 4284 cf14fee130586b6ae26511d1967b18aa "pdflatex"
-  "cv.out" 1649343774 6826 25f21aa0edd8e3aad96c5dd39556bd3c "pdflatex"
-  "cv.tex" 1649343770 10592 def898580f5acdb6b6fb6757a9373322 ""
+  "cv.aux" 1649640060 4284 ec78ee1b9408a3458c52ecaf6df6d74c "pdflatex"
+  "cv.out" 1649640060 6826 3291c103366279566bbfa18782b65f0c "pdflatex"
+  "cv.tex" 1649640056 11694 121c9660f0bba0aafbb36e5992da6f9d ""
   (generated)
   "cv.out"
-  "cv.aux"
   "cv.log"
   "cv.pdf"
+  "cv.aux"

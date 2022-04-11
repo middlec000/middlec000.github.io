@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.10)  7 APR 2022 08:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.10)  11 APR 2022 13:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -26,9 +26,9 @@ File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
-) (../resources/TLCresume.sty
+) (../shared_resources/TLCresume.sty
 
-LaTeX Warning: You have requested package `../resources/TLCresume',
+LaTeX Warning: You have requested package `../shared_resources/TLCresume',
                but the package provides `TLCresume'.
 
 Package: TLCresume 11/19/21 resume package
@@ -478,7 +478,7 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@randommax=\count299
 \c@blind@pangramcount=\count300
 \c@blind@pangrammax=\count301
-) (../resources/_header.tex (c:/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+) (../shared_resources/header.tex (c:/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip53
 \f@nch@O@elh=\skip54
@@ -630,99 +630,100 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 (Font)              scaled to size 7.0pt on input line 38.
 
-Overfull \hbox (7.97499pt too wide) in paragraph at lines 36--45
+Overfull \hbox (7.97499pt too wide) in paragraph at lines 36--46
 []  
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 47.
+(hyperref)                removing `\hfill' on input line 48.
 
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 48.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 49.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 48.
-LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF on input line 49.
+(Font)              scaled to size 10.0pt on input line 49.
+LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF on input line 50.
 (c:/texlive/2021/texmf-dist/tex/latex/sourcesanspro/TS1SourceSansPro-TLF.fd
 File: TS1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for TS1/SourceSansPro-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 49.
+(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 50.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 49.
+(Font)              scaled to size 10.0pt on input line 50.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 56.
+(hyperref)                removing `\hfill' on input line 57.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 67.
+(hyperref)                removing `\hfill' on input line 68.
+
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 75.
+(c:/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 82.
+(hyperref)                removing `\hfill' on input line 94.
 
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 91.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 103.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 29.86pt on input line 91.
+(Font)              scaled to size 29.86pt on input line 103.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 91.
+(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 103.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/n' will be
-(Font)              scaled to size 29.86pt on input line 91.
+(Font)              scaled to size 29.86pt on input line 103.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 91.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 103.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 91.
+(Font)              scaled to size 14.4pt on input line 103.
 [1{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 93.
+(hyperref)                removing `\hfill' on input line 104.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 102.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 111.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 119.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 131.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 142.
+(hyperref)                removing `\hfill' on input line 114.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.151 \end{document}
-                     [2] (./resume.aux)
+l.123 \newpage
+               [2]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 124.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.135 \end{document}
+                     [3] (./resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 3BD77A9971C1EE2F0A322FEAF487E1FD;4485.
+(rerunfilecheck)             Checksum: E5C54DB7DAB5F8688E739DF50E0B6CB8;3467.
  ) 
 Here is how much of TeX's memory you used:
- 13862 strings out of 478542
- 215039 string characters out of 5854402
- 593049 words of memory out of 5000000
- 31532 multiletter control sequences out of 15000+600000
- 491540 words of font info for 46 fonts, out of 8000000 for 9000
+ 13874 strings out of 478542
+ 215616 string characters out of 5854402
+ 597699 words of memory out of 5000000
+ 31544 multiletter control sequences out of 15000+600000
+ 491853 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  140i,11n,136p,602b,391s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}<c:/texlive/2021/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><c:/texlive/2021/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><c:/texlive/2021/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb>
-Output written on resume.pdf (2 pages, 180752 bytes).
+{c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}<c:/texlive/2021/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><c:/texlive/2021/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><c:/texlive/2021/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on resume.pdf (3 pages, 207971 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
- 18 named destinations out of 1000 (max. 500000)
- 129 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 114 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
+ 97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
