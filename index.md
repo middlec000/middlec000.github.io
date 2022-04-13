@@ -26,7 +26,7 @@ _Eastern Washington University_, June 2021
 GPA: 4.0  
 Outstanding Graduate Award  
 Graduate Service Appointment  
-[EWU Transcript](transcripts/EWU_transcript.pdf)    
+[EWU Transcript](transcripts/EWU_transcript.pdf)
 
 ## BS Mathematics
 _Western Washington University_, December 2017  
