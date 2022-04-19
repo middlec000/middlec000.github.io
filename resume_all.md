@@ -333,6 +333,7 @@ Senior Lecturer
 Eastern Washington University
 Cheney, WA
 melissa.graham@ewu.edu 
+https://www.ewu.edu/
 509-481-8125
 —
 Kim Ragsdale
@@ -340,6 +341,7 @@ Math Center Supervisor, Professor
 Western Washington University
 Bellingham, WA
 krags@wwu.edu
+https://www.wwu.edu/
 360-650-3813
 — 
 Kent VanEgdom
@@ -375,3 +377,5 @@ Leavenworth, WA
 alison@alisonmillerarch.com
 https://alisonmillerarch.com/
 509-860-3545
+---
+Dr. Andrew Oster

@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1649856025 "c:/Users/colin/Documents/GitHub/middlec000.github.io/resume/resume.tex" "resume.pdf" "resume" 1649856028
+["pdflatex"] 1649953527 "c:/Users/colin/Documents/GitHub/middlec000.github.io/resume/resume.tex" "resume.pdf" "resume" 1649953530
   "TLCresume.sty" 1649639607 1774 4a9dd41823864a634ba453b44a2eeb3a ""
-  "c:/Users/colin/Documents/GitHub/middlec000.github.io/resume/resume.tex" 1649856024 7764 f25b93f3eca5ffcf5ff4c34291cc54dd ""
+  "c:/Users/colin/Documents/GitHub/middlec000.github.io/resume/resume.tex" 1649953522 7755 07d6948b4efd2f9bbf063cb4ed8886eb ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc" 1628628076 3267 177411e539fcc6ace86309ff03b22da6 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc" 1628628076 3344 37c976a8b2fa4b8f132a488735054f7d ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc" 1628628076 3021 665788e9679767ade2a71155215d25e0 ""
@@ -122,11 +122,11 @@
   "c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1628632046 2801562 7213db24cbddc94e17b940051d813949 ""
   "c:/texlive/2021/texmf.cnf" 1628631811 713 e69b156964470283e0530f5060668171 ""
   "header.tex" 1648045636 761 8d645451c2711cff587a0bfb2c777b27 ""
-  "resume.aux" 1649856027 2644 28f8af2394b369a5c216d1a092b963e2 "pdflatex"
-  "resume.out" 1649856027 3467 e5c54db7dab5f8688e739df50e0b6cb8 "pdflatex"
-  "resume.tex" 1649856024 7764 f25b93f3eca5ffcf5ff4c34291cc54dd ""
+  "resume.aux" 1649953530 2644 466f7c1ee65d5a36c1b627cc43130447 "pdflatex"
+  "resume.out" 1649953530 3467 e5c54db7dab5f8688e739df50e0b6cb8 "pdflatex"
+  "resume.tex" 1649953522 7755 07d6948b4efd2f9bbf063cb4ed8886eb ""
   (generated)
-  "resume.pdf"
-  "resume.out"
   "resume.aux"
+  "resume.out"
   "resume.log"
+  "resume.pdf"
