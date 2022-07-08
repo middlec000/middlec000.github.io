@@ -379,3 +379,8 @@ https://alisonmillerarch.com/
 509-860-3545
 ---
 Dr. Andrew Oster
+Associate Professor of Applied Mathematics at Eastern Washington University
+My thesis advisor
+https://www.linkedin.com/in/andrew-oster-39b16699/
+aoster@ewu.edu
+509-818-4184
