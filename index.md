@@ -57,7 +57,7 @@ Presidential Scholarship Recipient
 * Outdoors - I am currently living in Leavenworth, Washington, and enjoying exploring the surrounding mountains. 
 
 # Professional Documents
-| <a href="https://middlec000.github.io/resume/resume.pdf" target="_blank"> Resume </a> | <a href="https://middlec000.github.io/cv/cv.pdf" target="_blank"> CV </a> | [Resume (unstable)](resume.md/resume.html) |
+| <a href="https://middlec000.github.io/resume/resume.pdf" target="_blank"> Resume </a> | <a href="https://middlec000.github.io/cv/cv.pdf" target="_blank"> CV </a> |
 
 # Portfolio
 You can click on each of the project headers to visit the GitHub repository for each project.
