@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 * {
   box-sizing: border-box;
 }
@@ -25,10 +25,18 @@
     <p>LinkedIn: <a href="https://www.linkedin.com/in/colin-middleton-000/">colin-middleton-000</a></p> 
     <p>GitHub: <a href="https://github.com/middlec000">middlec000</a></p>
   </div>
-</div>
+</div> -->
+
+# Contact
+* Email: <a href="mailto:colindmiddleton@gmail.com">colindmiddleton@gmail.com</a>
+* LinkedIn: <a href="https://www.linkedin.com/in/colin-middleton-000/">colin-middleton-000</a>
+* GitHub: <a href="https://github.com/middlec000">middlec000</a>
+
 
 # Welcome to my Website!
-My name is Colin Middleton. I am a recent graduate with an MS in Applied Math and I am currently looking for a job in the field of Data Science.  
+Hello! I'm Colin Middleton, a Data Scientist with three years of combined experience in consulting and healthtech.
+
+Currently looking for a new role in Data Science.
 
 # Education
 ## MS Applied Mathematics
