@@ -47,7 +47,7 @@ Used a random forest model to classify wine into one of six quality rankings bas
 
 ## Professional Documents
 <!-- | <a href="https://middlec000.github.io/resume/resume.pdf" target="_blank"> Resume </a> | <a href="https://middlec000.github.io/cv/cv.pdf" target="_blank"> CV </a> | -->
-- [Resume](https://middlec000.github.io/resume/resume.pdf)
+- [Resume](resume.html)
 
 ## Education
 - MS Applied Mathematics (June 2021)

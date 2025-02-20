@@ -1,0 +1,225 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Colin Middleton</title>
+<style>
+body {
+    color: #000000;
+    background: #EEEEEE;
+    font: 1.1em "Times New Roman";
+    line-height: 1.2;
+    margin: 40px 0;
+}
+#resume {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 40px 60px;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-shadow: 2px 2px 4px #AAAAAA;
+    -webkit-box-shadow: 2px 2px 4px #AAAAAA;
+}
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 200%;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    border-bottom: 1px solid #000000;
+    text-transform: uppercase;
+    font-size: 130%;
+    margin: 1em 0 0 0;
+    padding: 0;
+}
+h3 {
+    font-size: 100%;
+    margin: 0.8em 0 0.3em 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+p {
+    margin: 0 0 0.5em 0;
+    padding: 0;
+    }
+ul {
+    padding: 0;
+    margin: 0 1.5em;
+    }
+/* ul immediately after h1 = contact list */
+h1 + ul {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    }
+h1 + ul > li {
+    display: inline;
+    white-space: pre;
+    list-style-type: none;
+}
+h1 + ul > li:after {
+    content: "  \2022  ";
+}
+h1 + ul > li:last-child:after {
+    content: "";
+}
+/* p immediately after contact list = summary */
+h1 + ul + p {
+    margin: 1em 0;
+}
+@media print {
+    body {
+        font-size: 10pt;
+        margin: 0;
+        padding: 0;
+        background: none;
+    }
+    #resume {
+        margin: 0;
+        padding: 0;
+        border: 0px;
+        background: none;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+    /* Do not underline abbr tags in PDF */
+    abbr {
+        text-decoration: none;
+        font-variant: none;
+    }
+    /* Make links black in PDF */
+    /* Move this outside the print block to apply this in HTML too */
+    a, a:link, a:visited, a:hover {
+        color: #000000;
+        text-decoration: underline;
+    }
+}
+@page {
+    /* Change margins and paper size of PDF */
+    /* https://developer.mozilla.org/en-US/docs/Web/CSS/@page */
+    size: letter;
+    margin: 0.5in 0.8in;
+}
+@media screen and (max-width: 800px) {
+    body {
+        font-size: 16pt;
+        margin: 0;
+        padding: 0;
+        background: #FFFFFF !important;
+    }
+    #resume {
+        margin: 0;
+        padding: 1em;
+        border: 0px;
+        background: none;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+}
+
+</style>
+</head>
+<body>
+<div id="resume">
+<!-- The (first) h1 will be used as the <title> of the HTML page -->
+<h1>Colin Middleton</h1>
+<!-- The unordered list immediately after the h1 will be formatted on a single
+line. It is intended to be used for contact details -->
+<ul>
+<li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#111;&#108;&#105;&#110;&#100;&#109;&#105;&#100;&#100;&#108;&#101;&#116;&#111;&#110;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#99;&#111;&#108;&#105;&#110;&#100;&#109;&#105;&#100;&#100;&#108;&#101;&#116;&#111;&#110;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a></li>
+<li>(360)-206-7812</li>
+<li><a href="https://middlec000.github.io/">middlec000.github.io</a></li>
+<li>Bellingham, WA</li>
+</ul>
+<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
+is intended to be used for a short summary. -->
+<!-- CEO and Software Engineer with knowledge of applied information theory,
+including optimizing lossless compression schema of both the length-limited and
+adaptive variants. -->
+
+<h2>Professional Experience</h2>
+<h3><span>Data Scientist II | Pearl Health | New York, NY </span> <span>June 2024 &mdash; February 2025</span></h3>
+<ul>
+<li>Developed a pricing program for Medicare Shared Savings Program clients, compliant with Code of Federal Regulations guidelines.</li>
+<li>Engineered a data ingestion and versioning pipeline for an internal pricing tool, improving data testing, cross-version analysis, and forecast report transparency.</li>
+<li>Designed a system to track and manage pricing tool inputs, facilitating sales funnel performance analysis.</li>
+<li>Conducted 50 individualized analyses for key prospects.</li>
+</ul>
+<h3><span>Data Scientist I | Pearl Health | New York, NY </span> <span>May 2023 &mdash; June 2024</span></h3>
+<ul>
+<li>Forecasted client and prospect KPIs using various models (averaging, smoothing, regression, Theta).</li>
+<li>Re-engineered the company&rsquo;s internal pricing tool (12k lines of Python), enhancing modularity, configurability, and documentation.</li>
+<li>Designed and implemented a new I/O system for the pricing tool, increasing input accuracy by 25%.</li>
+<li>Analyzed KPI variability for medical providers, practices, and ACOs nationwide.</li>
+</ul>
+<h3><span>Entry-Level Data Scientist | Gordian Data | Seattle, WA </span> <span>July 2022 &mdash; May 2023</span></h3>
+<ul>
+<li>Acquired a client within four months of joining the company.</li>
+<li>Migrated and enhanced a client reporting tool from SAS to Python, improving maintainability and reducing runtime by 10x.</li>
+<li>Resolved a bug in a client pricing tool, increasing pricing accuracy by 5%.</li>
+<li>Contributed to hiring efforts, including designing and implementing an applicant tracking system, participating in job fairs, interviewing candidates, and managing the candidate pipeline.</li>
+</ul>
+<!-- ### <span>Architectural Drafter | Alison Miller Architect | Leavenworth, WA </span> <span>January 2022 --- July 2022</span>
+ - Created architectural drawings using AutoCAD LT: floor plans, roof plans, sections, exterior elevations, window and door schedules.
+ - Assembled drawing sheet set: dimensions, code compliance, viewport setup.
+ - Communicated work schedule and technical project details.
+ - Measured existing buildings for remodel.
+ - Managed shared files with Dropbox.
+
+### <span>Architectural Drafter | Brooks Middleton Architect | Anacortes, WA </span> <span>October 2018 --- December 2021</span>
+ - Created drawings using AutoCAD LT: site plans, floor plans, roof plans, electrical plans, sections, interior elevations, exterior elevations, window, door, and finish schedules.
+ - Communicated work schedule and technical project details.
+ - Provided feedback and suggestions on design.
+ - Researched building code and construction product specifications. -->
+
+<h2>Education</h2>
+<h3><span>MS Applied Math | Eastern Washington University | Cheney, WA </span> <span>September 2019 &mdash; June 2021</span></h3>
+<ul>
+<li>GPA: 4.0</li>
+<li>Outstanding Graduate (2021)</li>
+<li>Graduate Service Appointment (2020 - 2021)</li>
+</ul>
+<h3><span>BS Math | Western Washington University | Bellingham, WA </span> <span>September 2013 &mdash; December 2017</span></h3>
+<ul>
+<li>GPA: 3.5</li>
+<li>Chemistry Minor</li>
+<li>Honors Program</li>
+<li>Math Fellow (2015 - 2017)</li>
+<li>Presidential Scholarship (2013)</li>
+</ul>
+<h2>Research and Publications</h2>
+<h3><span>Homelessness Prediction | Spokane Predictive Analytics | Spokane, WA </span> <span>June 2020 &mdash; October 2023</span></h3>
+<ul>
+<li><a href="https://doi.org/10.1371/journal.pone.0292305">Middleton, Colin D., et al. &ldquo;The value of utility payment history in predicting first-time homelessness.&rdquo; Plos one 18.10 (2023): e0292305.</a>.</li>
+<li>Collaborated with data providers to refine a dataset and presented findings to the Spokane City Council.</li>
+<li>Evaluated predictive models (Linear Regression, Cox Proportional Hazards, LSTM, Logistic Regression, ANN), achieving a peak AUC of 0.81 with Logistic Regression—comparable to research using richer, less operational data.</li>
+<li>Addressed extreme class imbalance (0.39% positive class) via minority oversampling.</li>
+</ul>
+<h2>Project Experience</h2>
+<h3><span><a href="https://app.hex.tech/60398cd0-c397-4635-a601-971b1bb7d7d2/app/bdb69a0f-db3f-426f-ac4b-5e72c89cdd8a/latest?">The Wordler</a> | Personal Project | Leavenworth, WA</span> <span>March 2022 &mdash; April 2022</span></h3>
+<ul>
+<li>Collected data from the Wordle website source code and Kaggle.</li>
+<li>Developed a six-component data filter using regular expressions in Python.</li>
+<li>Displayed words sorted by user-specified criteria: word frequency, letter frequency, and letter position frequency.</li>
+</ul>
+<h3><span><a href="https://github.com/middlec000/fhdc">Document Clustering</a> | Big Data Analytics Class Project | Spokane, WA</span> <span>January 2021 &mdash; March 2021</span></h3>
+<ul>
+<li>Established a data processing pipeline to transform academic papers into Term Frequency-Inverse Document Frequency vectors.</li>
+<li>Assisted with development of a customized K-Means algorithm optimized for sparse, largely non-overlapping vectors.</li>
+</ul>
+<h3><span>Predicting Traffic | Whatcom Council of Governments | Bellingham, WA</span> <span>June 2017 &mdash; December 2017</span></h3>
+<ul>
+<li>Predicted US/Canadian border crossing traffic using historical and upstream data. A custom model leveraging upstream sensor ratios achieved the lowest error rate (10.83 cars/5 min).</li>
+</ul>
+<h2>Technical Skills</h2>
+<ul>
+<li>Programming Languages: Python (pandas, NumPy, statsmodels, scikit-learn, matplotlib, seaborn), R, SQL</li>
+<li>Data Science Tools: Git, Jupyter Notebooks, dbt, Anaconda</li>
+<li>Machine Learning: Linear/Logistic Regression, Cox Proportional Hazards, Decision Trees, K-Means/Hierarchical Clustering, PCA</li>
+<li>Time Series Analysis: Smoothing, Averaging, Autoregression, Theta</li>
+<li>Data Analysis/Preparation: Hypothesis testing, correlation analysis, data visualization, dimensionality reduction, class balancing, imputation, text processing</li>
+</ul></div>
+</body>
+</html>
