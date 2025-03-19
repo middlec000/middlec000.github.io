@@ -1,18 +1,37 @@
-![alt text](./images/static_peak.jpg "September 2021 - Static Peak, Tetons, WY")
+<div align="center">
+  <img src="images/PXL_20250215_203314428-EDIT.jpg" alt="February 2025 - Rogers Pass, BC, CA">
+  <div align="center">
+    February 2025 - Rogers Pass, BC, CA
+  </div>
+</div>
+
+---
+
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  :
+  <a href="pages/resume/resume.html">Resume</a>
+  :
+  <a href="mailto:colindmiddleton@gmail.com">Email</a>
+  :
+  <a href="https://calendar.google.com/calendar/u/0/appointments/AcZssZ2Iw0lh3uQU7PqLZuOwgWHW61XgVkSWuCBdIwk=?gv=true">Meeting</a>
+  :
+  <a href="https://www.linkedin.com/in/colin-middleton-000/">LinkedIn</a>
+  :
+  <a href="https://github.com/middlec000">GitHub</a>
+  :
+</div>
+
+---
 
 
 ## Welcome!
 Hello and welcome to my personal website!
 
-I'm Colin Middleton, a Data Scientist with three years of combined experience in consulting and healthtech.
-
-Currently looking for a new role in Data Science.
+I'm Colin Middleton, a data scientist with over three years of combined experience in consulting and healthtech - currently looking for a new mid-to-senior-level role in data science.
 
 
-## Contact
-- Email: <a href="mailto:colindmiddleton@gmail.com">colindmiddleton@gmail.com</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/colin-middleton-000/">colin-middleton-000</a>
-- GitHub: <a href="https://github.com/middlec000">middlec000</a>
+## What is a Data Scientist, Anyway?
+When I tell other's I'm a Data Scientist, >75% of the time they understandably have no idea what I'm talking about. The term "data scientist" is relatively new and definitely ambiguous because it is an umbrella term that encompasses several better-defined roles. A particular data scientist position is responsible some combination of these roles. Learn more in my page on [Decoding the Data Scientist: A Look at This Evolving Role](pages/data_scientist_role_explained/data_scientist_role_explained.md).
 
 
 ## Interests
@@ -45,10 +64,6 @@ Upload your data, group it by a categorical column, then determine if there is a
 Used a random forest model to classify wine into one of six quality rankings based on given attributes.
 
 
-## Professional Documents
-- [Resume](resume.html)
-
-
 ## Education
 - MS Applied Mathematics (June 2021)
   - Eastern Washington University
@@ -62,3 +77,10 @@ Used a random forest model to classify wine into one of six quality rankings bas
   - Math Fellow
   - Honors Program
   - Presidential Scholarship Recipient
+
+<div align="center">
+  <img src="images/PXL_20241015_170755428-EDIT2.jpg" alt="October 2024 - Moab, UT, USA">
+  <div align="center">
+    October 2024 - Moab, UT, USA
+  </div>
+</div>

@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f9f9f9"/>
+  
+  <!-- Main flow arrows -->
+  <path d="M 90,200 L 710,200" stroke="#888" stroke-width="3" fill="none"/>
+  <path d="M 710,200 L 700,195 L 700,205 Z" fill="#888"/>
+  
+  <!-- Value Chain Boxes -->
+  <!-- Raw data -->
+  <rect x="50" y="150" width="120" height="100" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <text x="110" y="175" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Raw Data</text>
+  <line x1="170" y1="200" x2="210" y2="200" stroke="#2980b9" stroke-width="3" stroke-dasharray="5,3"/>
+  
+  <!-- Information -->
+  <rect x="210" y="150" width="120" height="100" rx="10" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
+  <text x="270" y="175" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Information</text>
+  <line x1="330" y1="200" x2="370" y2="200" stroke="#8e44ad" stroke-width="3" stroke-dasharray="5,3"/>
+  
+  <!-- Insights -->
+  <rect x="370" y="150" width="120" height="100" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="430" y="175" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Insights</text>
+  <line x1="490" y1="200" x2="530" y2="200" stroke="#c0392b" stroke-width="3" stroke-dasharray="5,3"/>
+  
+  <!-- Decisions -->
+  <rect x="530" y="150" width="120" height="100" rx="10" fill="#f1c40f" stroke="#f39c12" stroke-width="2"/>
+  <text x="590" y="175" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Decisions</text>
+  <line x1="650" y1="200" x2="690" y2="200" stroke="#f39c12" stroke-width="3" stroke-dasharray="5,3"/>
+  
+  <!-- Business Value -->
+  <rect x="690" y="150" width="60" height="100" rx="10" fill="#2ecc71" stroke="#27ae60" stroke-width="2"/>
+  <text x="720" y="175" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Value</text>
+  
+  <!-- Description Boxes -->
+  <!-- Raw data description -->
+  <rect x="40" y="280" width="140" height="85" rx="5" fill="#ebf5fb" stroke="#3498db" stroke-width="1"/>
+  <text x="110" y="295" font-family="Arial" font-size="12" fill="#333" text-anchor="middle" font-weight="bold">Raw Data</text>
+  <text x="50" y="315" font-family="Arial" font-size="11" fill="#333">• Database records</text>
+  <text x="50" y="335" font-family="Arial" font-size="11" fill="#333">• System logs</text>
+  <text x="50" y="355" font-family="Arial" font-size="11" fill="#333">• External datasets</text>
+  
+  <!-- Information description -->
+  <rect x="200" y="280" width="140" height="85" rx="5" fill="#f4ecf7" stroke="#9b59b6" stroke-width="1"/>
+  <text x="270" y="295" font-family="Arial" font-size="12" fill="#333" text-anchor="middle" font-weight="bold">Information</text>
+  <text x="210" y="315" font-family="Arial" font-size="11" fill="#333">• Cleaned datasets</text>
+  <text x="210" y="335" font-family="Arial" font-size="11" fill="#333">• Organized metrics</text>
+  <text x="210" y="355" font-family="Arial" font-size="11" fill="#333">• Structured reports</text>
+  
+  <!-- Insights description -->
+  <rect x="360" y="280" width="140" height="85" rx="5" fill="#f9ebea" stroke="#e74c3c" stroke-width="1"/>
+  <text x="430" y="295" font-family="Arial" font-size="12" fill="#333" text-anchor="middle" font-weight="bold">Insights</text>
+  <text x="370" y="315" font-family="Arial" font-size="11" fill="#333">• Pattern recognition</text>
+  <text x="370" y="335" font-family="Arial" font-size="11" fill="#333">• Trend analysis</text>
+  <text x="370" y="355" font-family="Arial" font-size="11" fill="#333">• Anomaly detection</text>
+  
+  <!-- Decisions description -->
+  <rect x="520" y="280" width="140" height="85" rx="5" fill="#fef9e7" stroke="#f1c40f" stroke-width="1"/>
+  <text x="590" y="295" font-family="Arial" font-size="12" fill="#333" text-anchor="middle" font-weight="bold">Decisions</text>
+  <text x="530" y="315" font-family="Arial" font-size="11" fill="#333">• Strategic planning</text>
+  <text x="530" y="335" font-family="Arial" font-size="11" fill="#333">• Resource allocation</text>
+  <text x="530" y="355" font-family="Arial" font-size="11" fill="#333">• Process optimization</text>
+  
+  <!-- Business Value description -->
+  <rect x="680" y="280" width="80" height="85" rx="5" fill="#e9f7ef" stroke="#2ecc71" stroke-width="1"/>
+  <text x="720" y="295" font-family="Arial" font-size="12" fill="#333" text-anchor="middle" font-weight="bold">Value</text>
+  <text x="690" y="315" font-family="Arial" font-size="11" fill="#333">• Revenue</text>
+  <text x="690" y="335" font-family="Arial" font-size="11" fill="#333">• Efficiency</text>
+  <text x="690" y="355" font-family="Arial" font-size="11" fill="#333">• Growth</text>
+  
+  <!-- BI Analyst Role -->
+  <path d="M 40,80 L 760,80 L 760,120 L 40,120 Z" fill="#34495e" stroke="#2c3e50" stroke-width="2"/>
+  <text x="400" y="105" font-family="Arial" font-size="18" fill="white" text-anchor="middle" font-weight="bold">Business Intelligence Analyst</text>
+  
+  <!-- BI Analyst Activities -->
+  <path d="M 65,120 L 65,150" stroke="#34495e" stroke-width="2" stroke-dasharray="5,3"/>
+  <path d="M 225,120 L 225,150" stroke="#34495e" stroke-width="2" stroke-dasharray="5,3"/>
+  <path d="M 385,120 L 385,150" stroke="#34495e" stroke-width="2" stroke-dasharray="5,3"/>
+  <path d="M 545,120 L 545,150" stroke="#34495e" stroke-width="2" stroke-dasharray="5,3"/>
+  <path d="M 705,120 L 705,150" stroke="#34495e" stroke-width="2" stroke-dasharray="5,3"/>
+  
+  <!-- Activity Labels -->
+  <text x="110" y="140" font-family="Arial" font-size="11" fill="#34495e" text-anchor="middle">Data Collection</text>
+  <text x="270" y="140" font-family="Arial" font-size="11" fill="#34495e" text-anchor="middle">Processing</text>
+  <text x="430" y="140" font-family="Arial" font-size="11" fill="#34495e" text-anchor="middle">Analysis</text>
+  <text x="590" y="140" font-family="Arial" font-size="11" fill="#34495e" text-anchor="middle">Reporting</text>
+  <text x="720" y="140" font-family="Arial" font-size="11" fill="#34495e" text-anchor="middle">Impact</text>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial" font-size="24" fill="#333" text-anchor="middle" font-weight="bold">Business Intelligence Value Chain</text>
+</svg>
