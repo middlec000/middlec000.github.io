@@ -36,72 +36,10 @@ Typical Tasks:
 This role focuses on building and deploying machine learning models that can automate tasks, make predictions, or provide recommendations [10]. Machine learning engineers have a strong background in computer programming and are skilled in implementing machine learning algorithms using various frameworks and libraries [27]. They work closely with data scientists to take models from research to production [23].
 
 <div align="center">
-
-```mermaid
-graph LR
-    %% Input Layer
-    I1((I₁)) --- H11((H₁₁))
-    I1 --- H12((H₁₂))
-    I1 --- H13((H₁₃))
-    I1 --- H14((H₁₄))
-    I2((I₂)) --- H11
-    I2 --- H12
-    I2 --- H13
-    I2 --- H14
-    I3((I₃)) --- H11
-    I3 --- H12
-    I3 --- H13
-    I3 --- H14
-    
-    %% Hidden Layer 1 to Hidden Layer 2
-    H11 --- H21((H₂₁))
-    H11 --- H22((H₂₂))
-    H11 --- H23((H₂₃))
-    H12 --- H21
-    H12 --- H22
-    H12 --- H23
-    H13 --- H21
-    H13 --- H22
-    H13 --- H23
-    H14 --- H21
-    H14 --- H22
-    H14 --- H23
-    
-    %% Hidden Layer 2 to Output Layer
-    H21 --- O1((O₁))
-    H21 --- O2((O₂))
-    H22 --- O1
-    H22 --- O2
-    H23 --- O1
-    H23 --- O2
-    
-    %% Labels
-    subgraph "Input Layer"
-        I1
-        I2
-        I3
-    end
-    
-    subgraph "Hidden Layer 1"
-        H11
-        H12
-        H13
-        H14
-    end
-    
-    subgraph "Hidden Layer 2"
-        H21
-        H22
-        H23
-    end
-    
-    subgraph "Output Layer"
-        O1
-        O2
-    end
-```
-
-Example of the internal structure of a machine learning model.
+  <img src="neural_network_example.png" alt="Diagram of a Neural Network">
+  <div align="center">
+  Example of the internal structure of a machine learning model.
+  </div>
 </div>
 
 Typical Tasks:  
@@ -116,22 +54,10 @@ Typical Tasks:
 Data engineers are responsible for building and maintaining the infrastructure that allows data to be collected, stored, and processed efficiently [10]. They focus on the "plumbing" of data, ensuring that data is readily available and in the right format for data scientists and analysts to use [12]. They often work with large-scale data systems and cloud technologies [32].
 
 <div align="center">
-
-```mermaid
-flowchart LR
-  A("Sources") --> B("Extract")
-  B --> C("Validate & Clean")
-  C --> D("Transform") --> F("Load")
-  F --> G("Store")
-  style A fill:#efe,stroke:#333,stroke-width:2px
-  style B fill:#ccf,stroke:#333,stroke-width:2px
-  style C fill:#cfc,stroke:#333,stroke-width:2px
-  style D fill:#ccf,stroke:#333,stroke-width:2px
-  style F fill:#ccf,stroke:#333,stroke-width:2px
-  style G fill:#efe,stroke:#333,stroke-width:2px
-```
-
-Typical Extract, Transform, and Load (ETL) process diagram.
+  <img src="etl_diagram.png" alt="ETL Diagram">
+  <div align="center">
+  Typical Extract, Transform, and Load (ETL) process diagram.
+  </div>
 </div>
 
 Typical Tasks:  
@@ -146,73 +72,10 @@ Typical Tasks:
 A data architect focuses on the overall strategy for how data will be stored, managed, and used within an organization [10]. They design the blueprint for the data infrastructure, considering factors like data security, data governance, and future scalability [10]. They often work at a higher level than data engineers, focusing on the strategic vision for data management [42].
 
 <div align="center">
-
-```mermaid
-erDiagram
-    CUSTOMERS ||--o{ ORDERS : places
-    CUSTOMERS {
-        int customer_id PK
-        string first_name
-        string last_name
-        string email
-        string phone
-        string address
-        date created_at
-        date updated_at
-    }
-    
-    ORDERS ||--|{ ORDER_ITEMS : contains
-    ORDERS {
-        int order_id PK
-        int customer_id FK
-        date order_date
-        decimal total_amount
-        string status
-        string shipping_address
-        string payment_method
-        date created_at
-        date updated_at
-    }
-    
-    PRODUCTS ||--o{ ORDER_ITEMS : included_in
-    PRODUCTS ||--o{ PRODUCT_CATEGORIES : belongs_to
-    PRODUCTS {
-        int product_id PK
-        string name
-        string description
-        decimal price
-        int stock_quantity
-        string image_url
-        boolean active
-        date created_at
-        date updated_at
-    }
-    
-    ORDER_ITEMS {
-        int order_item_id PK
-        int order_id FK
-        int product_id FK
-        int quantity
-        decimal unit_price
-        decimal subtotal
-    }
-    
-    CATEGORIES ||--o{ PRODUCT_CATEGORIES : has
-    CATEGORIES {
-        int category_id PK
-        string name
-        string description
-        date created_at
-        date updated_at
-    }
-    
-    PRODUCT_CATEGORIES {
-        int product_id FK
-        int category_id FK
-    }
-```
-
-Example of the design of a database schema.
+  <img src="db_schema_example.png" alt="Example of the design of a database schema">
+  <div align="center">
+  Example of the design of a database schema.
+  </div>
 </div>
 
 Typical Tasks:  
