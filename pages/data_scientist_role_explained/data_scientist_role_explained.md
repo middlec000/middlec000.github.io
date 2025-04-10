@@ -121,6 +121,18 @@ Typical Tasks:
   * Conducting data quality checks to ensure the accuracy and reliability of business intelligence information [48]. This is crucial for making informed business decisions [47].  
   * Providing technical support for BI tools and systems [46]. This ensures that users can effectively access and utilize the available data and reports [46].
 
+### 6\. Statistician
+Statisticians represent one of the oldest and most foundational disciplines contributing to modern data science [51]. They focus on the development and application of mathematical and statistical methods to collect, analyze, interpret, and draw conclusions from data [53]. Statisticians typically have strong mathematical and theoretical backgrounds, with expertise in probability theory, statistical inference, and experimental design [52].
+
+Typical Tasks:  
+  * Designing experiments, surveys, and observational studies to ensure the collection of valid and reliable data [52]. For example, a pharmaceutical statistician might design clinical trials to evaluate drug efficacy while controlling for various factors [55].  
+  * Developing and applying statistical methodologies to analyze complex datasets and answer specific research questions [51]. This includes selecting appropriate statistical tests based on data characteristics and research objectives [56].  
+  * Creating mathematical models to explain relationships between variables and make predictions [53]. For instance, an econometrician might develop models to forecast economic indicators based on historical data [54].  
+  * Assessing the reliability and validity of results through techniques like confidence intervals, hypothesis testing, and sensitivity analysis [57]. This helps quantify the uncertainty in statistical conclusions [58].  
+  * Communicating statistical concepts and findings to non-technical stakeholders [51]. This requires translating complex mathematical ideas into actionable insights for decision-makers [53].  
+  * Ensuring the proper application of statistical methods across an organization [59]. This often involves consulting with researchers and analysts to guide their analytical approaches [54].  
+  * Developing new statistical methods and theories to address emerging analytical challenges [60]. This research aspect distinguishes many statisticians from purely applied analysts [51].
+
 ## Summary
 
 In conclusion, the role of a data scientist is a multifaceted one, often acting as an umbrella term for various specialized roles centered around the extraction of knowledge and insights from data. While the title itself can be new, general, and poorly defined, understanding the specific roles it encompasses, such as data analyst, machine learning engineer, data engineer, data architect, and business intelligence analyst, provides a clearer picture of the diverse work involved in this rapidly evolving field [9]. As organizations continue to generate and rely on increasing amounts of data, the demand for professionals with these skills will only continue to grow [20].
@@ -210,7 +222,17 @@ I largely used Google's [Gemini](https://gemini.google.com) (Deep Research) and 
 47. A Day in the Life of a Business Intelligence Analyst, accessed March 19, 2025, [https://post.edu/blog/a-day-in-the-life-of-a-business-intelligence-analyst/](https://post.edu/blog/a-day-in-the-life-of-a-business-intelligence-analyst/)  
 48. Business Intelligence Analyst Job Description and Templates \- Thoughts about Product Adoption, User Onboarding and Good UX | Userpilot Blog, accessed March 19, 2025, [https://userpilot.com/blog/business-intelligence-analyst-job-description/](https://userpilot.com/blog/business-intelligence-analyst-job-description/)  
 49. Example Job Description for Business Intelligence Analyst \- Yardstick, accessed March 19, 2025, [https://www.yardstick.team/job-description/business-intelligence-analyst](https://www.yardstick.team/job-description/business-intelligence-analyst)  
-50. Business Intelligence Analyst Job Description \- Deel, accessed March 19, 2025, [https://www.deel.com/job-description-templates/business-intelligence-analyst](https://www.deel.com/job-description-templates/business-intelligence-analyst)
+50. Business Intelligence Analyst Job Description \- Deel, accessed March 19, 2025, [https://www.deel.com/job-description-templates/business-intelligence-analyst](https://www.deel.com/job-description-templates/business-intelligence-analyst)  
+51. What is a Statistician? - American Statistical Association, accessed April 10, 2025, [https://www.amstat.org/your-career/what-is-a-statistician](https://www.amstat.org/your-career/what-is-a-statistician)
+52. Statistician - Bureau of Labor Statistics, accessed April 10, 2025, [https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm](https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm)
+53. What Does a Statistician Do? - Coursera, accessed April 10, 2025, [https://www.coursera.org/articles/statistician](https://www.coursera.org/articles/statistician)
+54. The Role of Statisticians in Data Science - Royal Statistical Society, accessed April 10, 2025, [https://rss.org.uk/news-publication/news-publications/2019/general-news/the-role-of-statisticians-in-data-science/](https://rss.org.uk/news-publication/news-publications/2019/general-news/the-role-of-statisticians-in-data-science/)
+55. Statistician: Occupational Outlook Handbook - U.S. Bureau of Labor Statistics, accessed April 10, 2025, [https://www.bls.gov/ooh/math/statisticians.htm](https://www.bls.gov/ooh/math/statisticians.htm)
+56. Statistical Methods for Data Science - Harvard University, accessed April 10, 2025, [https://online-learning.harvard.edu/course/statistical-methods-data-science](https://online-learning.harvard.edu/course/statistical-methods-data-science)
+57. The American Statistician: The Future of Statistics and Data Science - Taylor & Francis Online, accessed April 10, 2025, [https://www.tandfonline.com/toc/utas20/72/1](https://www.tandfonline.com/toc/utas20/72/1)
+58. Foundations of Statistics for Data Scientists - Stanford University, accessed April 10, 2025, [https://statistics.stanford.edu/courses/foundations-statistics-data-scientists](https://statistics.stanford.edu/courses/foundations-statistics-data-scientists)
+59. Statistician vs. Data Scientist: What's the Difference? - DataCamp, accessed April 10, 2025, [https://www.datacamp.com/blog/statistician-vs-data-scientist-whats-the-difference](https://www.datacamp.com/blog/statistician-vs-data-scientist-whats-the-difference)
+60. Statistical Science in the Age of Artificial Intelligence - Annual Review of Statistics, accessed April 10, 2025, [https://www.annualreviews.org/doi/10.1146/annurev-statistics-031219-041141](https://www.annualreviews.org/doi/10.1146/annurev-statistics-031219-041141)
 
 ---
 
