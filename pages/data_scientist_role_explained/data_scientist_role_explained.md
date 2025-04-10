@@ -1,3 +1,20 @@
+<div align="center">
+  <img src="static_peak.jpg" alt="Static Peak, Grand Teton National Park, WY">
+  <div align="center">
+    Static Peak, Grand Teton National Park, WY
+  </div>
+</div>
+
+---
+
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  :
+  <a href="/index.md">Home</a>
+  :
+</div>
+
+---
+
 # Decoding the Data Scientist: A Look at This Evolving Role
 
 ## Introduction
@@ -194,3 +211,13 @@ I largely used Google's [Gemini](https://gemini.google.com) (Deep Research) and 
 48. Business Intelligence Analyst Job Description and Templates \- Thoughts about Product Adoption, User Onboarding and Good UX | Userpilot Blog, accessed March 19, 2025, [https://userpilot.com/blog/business-intelligence-analyst-job-description/](https://userpilot.com/blog/business-intelligence-analyst-job-description/)  
 49. Example Job Description for Business Intelligence Analyst \- Yardstick, accessed March 19, 2025, [https://www.yardstick.team/job-description/business-intelligence-analyst](https://www.yardstick.team/job-description/business-intelligence-analyst)  
 50. Business Intelligence Analyst Job Description \- Deel, accessed March 19, 2025, [https://www.deel.com/job-description-templates/business-intelligence-analyst](https://www.deel.com/job-description-templates/business-intelligence-analyst)
+
+---
+
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  :
+  <a href="/index.md">Home</a>
+  :
+</div>
+
+---
