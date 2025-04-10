@@ -9,7 +9,7 @@
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
   :
-  <a href="/index.md">Home</a>
+  <a href="https://middlec000.github.io/">Home</a>
   :
 </div>
 
@@ -216,7 +216,7 @@ I largely used Google's [Gemini](https://gemini.google.com) (Deep Research) and 
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
   :
-  <a href="/index.md">Home</a>
+  <a href="https://middlec000.github.io/">Home</a>
   :
 </div>
 
