@@ -124,6 +124,13 @@ Typical Tasks:
 ### 6\. Statistician
 Statisticians represent one of the oldest and most foundational disciplines contributing to modern data science [51]. They focus on the development and application of mathematical and statistical methods to collect, analyze, interpret, and draw conclusions from data [53]. Statisticians typically have strong mathematical and theoretical backgrounds, with expertise in probability theory, statistical inference, and experimental design [52].
 
+<div align="center">
+  <img src="t_distribution_confidence_interval.png" alt="95% Confidence Interval">
+  <div align="center">
+  95% Confidence Interval.
+  </div>
+</div>
+
 Typical Tasks:  
   * Designing experiments, surveys, and observational studies to ensure the collection of valid and reliable data [52]. For example, a pharmaceutical statistician might design clinical trials to evaluate drug efficacy while controlling for various factors [55].  
   * Developing and applying statistical methodologies to analyze complex datasets and answer specific research questions [51]. This includes selecting appropriate statistical tests based on data characteristics and research objectives [56].  
