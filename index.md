@@ -48,7 +48,7 @@ I always enjoy learning new tools to help extract, transform, investigate, and v
 I currently live in Bellingham, Washington, and enjoy exploring the nearby Cascade Mountains on foot and ski.
 
 
-## Portfolio
+## Projects
 You can click on each of the project headers to visit the GitHub repository for each project.
 
 ### [Predicting Homelessness](https://github.com/middlec000/SPA_predict_homelessness)
@@ -57,11 +57,14 @@ Used a logistic regression model to predict an individual's risk of experiencing
 ### [The Wordler](https://github.com/middlec000/wordler)
 A website that suggests words for you to use for the New York Times Wordle game based on your previous guesses and ranked by user selection of: word frequency, letter frequency, and letter position frequency. Website [here](https://app.hex.tech/60398cd0-c397-4635-a601-971b1bb7d7d2/app/bdb69a0f-db3f-426f-ac4b-5e72c89cdd8a/latest?).
 
-### [One-Way ANOVA Website](https://github.com/middlec000/grades_vs_student_characteristic)
-Upload your data, group it by a categorical column, then determine if there is a statistically significant difference in means of a continuous variable between groups. Example provided. Website [here](https://share.streamlit.io/middlec000/grades_vs_student_characteristic/main/src/main.py).
+### [Resu.me](https://github.com/middlec000/resu.me)
+Two tools for creating and tailoring a JSON Resume to a specific job posting using Google Gemini.
 
-### [Wine Quality Classification](https://github.com/middlec000/wine_quality)
-Used a random forest model to classify wine into one of six quality rankings based on given attributes.
+### [Just The Facts](https://github.com/middlec000/just_the_facts)
+A platform for exploring controversial topics by presenting both sides of an argument on equal footing — no algorithmic amplification, no hidden bias, just structured debate.
+
+### [Fast Hierarchical Document Clustering](https://github.com/middlec000/fhdc) (In Progress)
+FHDC (Fast Hierarchical Document Clustering) is a Python package for agglomerative, topic-based document clustering. It converts documents into TF-IDF vectors and iteratively merges the most similar clusters from the bottom up.
 
 
 ## Education
@@ -78,6 +81,7 @@ Used a random forest model to classify wine into one of six quality rankings bas
   - Honors Program
   - Presidential Scholarship Recipient
 
+## 
 <div align="center">
   <img src="images/PXL_20241015_170755428-EDIT2.jpg" alt="October 2024 - Moab, UT, USA">
   <div align="center">
